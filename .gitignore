@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+analiz.html
+.DS_Store

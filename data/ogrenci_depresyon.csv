@@ -1,0 +1,1001 @@
+﻿id;cinsiyet;yas;sehir;meslek;akademik_baski;is_baskisi;ortalama_not;ogrenci_tatmini;is_tatmini;uyku_surumu;diyet_aliskanlik;derece;sakinlestirici_ilac;gunluk_calisma_saati;finansal_stres;ailede_mental_hastalik_gecmisi;depresyon_durumu
+99029;Female;20;Lucknow;Student;5;0;9,63;4;0;'5-6 hours';Unhealthy;'Class 12';Yes;1;1;No;0
+15599;Female;21;Vasai-Virar;Student;5;0;8,1;4;0;'Less than 5 hours';Unhealthy;BHM;Yes;8;3;Yes;1
+102735;Female;23;Srinagar;Student;5;0;5,99;5;0;'Less than 5 hours';Healthy;BHM;Yes;12;5;Yes;1
+22050;Female;25;Lucknow;Student;1;0;7,37;3;0;'7-8 hours';Moderate;M,Tech;No;2;4;No;0
+66765;Female;28;Srinagar;Student;1;0;7,92;3;0;'More than 8 hours';Healthy;MSc;No;8;1;No;0
+74773;Female;32;Pune;Student;3;0;7,9;2;0;'5-6 hours';Unhealthy;B,Tech;No;12;5;Yes;0
+140082;Female;28;Thane;Student;3;0;5,77;5;0;'5-6 hours';Unhealthy;MSc;Yes;1;4;No;0
+104254;Female;29;Faridabad;Student;1;0;8,07;3;0;'More than 8 hours';Moderate;BHM;No;1;3;Yes;0
+3245;Female;28;Surat;Student;3;0;9,13;1;0;'More than 8 hours';Healthy;LLB;No;2;3;Yes;0
+125185;Female;32;Meerut;Student;3;0;7,94;3;0;'Less than 5 hours';Unhealthy;MBBS;Yes;11;5;Yes;0
+117020;Female;22;Kalyan;Student;5;0;5,32;1;0;'5-6 hours';Healthy;BSc;Yes;8;4;Yes;1
+96471;Female;28;Srinagar;Student;2;0;7,92;5;0;'Less than 5 hours';Moderate;'Class 12';No;11;1;Yes;0
+2407;Female;20;Hyderabad;Student;3;0;6,04;4;0;'5-6 hours';Healthy;'Class 12';Yes;4;2;Yes;0
+25493;Female;24;Kalyan;Student;3;0;7,21;5;0;'5-6 hours';Unhealthy;'Class 12';Yes;9;5;No;1
+107228;Female;24;Bhopal;Student;2;0;9,93;4;0;'7-8 hours';Healthy;MSc;No;9;1;No;0
+133367;Female;23;Bangalore;Student;2;0;8,17;2;0;'Less than 5 hours';Moderate;B,Com;No;0;1;Yes;0
+58919;Female;22;Vasai-Virar;Student;3;0;7,52;4;0;'Less than 5 hours';Moderate;BCA;Yes;6;1;Yes;1
+13946;Female;32;Visakhapatnam;Student;2;0;7,74;4;0;'5-6 hours';Moderate;MA;No;12;1;No;0
+47959;Female;31;Bhopal;Student;5;0;5,6;1;0;'7-8 hours';Unhealthy;M,Ed;Yes;10;3;No;1
+126805;Female;34;Kanpur;Student;3;0;10;4;0;'5-6 hours';Healthy;BCA;No;3;1;No;0
+109904;Female;20;Srinagar;Student;1;0;8,59;4;0;'5-6 hours';Healthy;'Class 12';Yes;9;5;No;1
+70989;Female;34;Nashik;Student;1;0;7,04;2;0;'More than 8 hours';Moderate;MCA;No;0;5;No;0
+23860;Female;28;Ahmedabad;Student;1;0;7,37;3;0;'More than 8 hours';Unhealthy;BE;Yes;12;3;Yes;1
+90510;Female;21;Surat;Student;3;0;9,95;1;0;'7-8 hours';Moderate;B,Arch;Yes;11;5;No;1
+18435;Female;33;Thane;Student;3;0;5,37;4;0;'5-6 hours';Unhealthy;PhD;Yes;7;4;No;1
+10004;Female;27;Patna;Student;4;0;9,97;1;0;'5-6 hours';Unhealthy;PhD;Yes;2;4;No;1
+39272;Female;34;Surat;Student;1;0;9,21;3;0;'5-6 hours';Moderate;B,Ed;No;6;5;No;0
+51047;Female;24;Ahmedabad;Student;3;0;8,69;1;0;'More than 8 hours';Healthy;BSc;Yes;9;2;Yes;1
+86592;Female;30;Surat;Student;3;0;6,37;5;0;'More than 8 hours';Healthy;M,Com;No;9;2;Yes;0
+115531;Female;19;Vadodara;Student;4;0;7,51;3;0;'More than 8 hours';Moderate;'Class 12';Yes;10;2;No;1
+126206;Female;26;Agra;Student;3;0;8,97;3;0;'5-6 hours';Unhealthy;MD;Yes;11;5;No;1
+85433;Female;30;Meerut;Student;1;0;7,15;1;0;'Less than 5 hours';Healthy;B,Com;No;3;3;No;0
+75236;Female;27;Mumbai;Student;4;0;7,02;5;0;'5-6 hours';Healthy;M,Ed;Yes;11;2;Yes;1
+43537;Female;24;Nagpur;Student;5;0;8,28;4;0;'5-6 hours';Unhealthy;MSc;No;8;4;Yes;1
+137155;Female;29;Thane;Student;4;0;9,93;5;0;'5-6 hours';Moderate;B,Ed;No;0;1;No;0
+97116;Female;25;Delhi;Student;2;0;8,93;4;0;'More than 8 hours';Healthy;BBA;No;10;1;No;0
+134940;Female;27;Jaipur;Student;5;0;5,76;4;0;'5-6 hours';Moderate;B,Ed;Yes;6;5;Yes;1
+15069;Female;21;Visakhapatnam;Student;3;0;9,21;1;0;'Less than 5 hours';Healthy;MCA;Yes;10;5;Yes;1
+40990;Female;23;Kolkata;Student;3;0;9,93;2;0;'7-8 hours';Healthy;MCA;Yes;2;4;No;1
+37978;Female;21;Meerut;Student;2;0;5,82;1;0;'Less than 5 hours';Moderate;B,Arch;Yes;11;5;Yes;1
+92317;Female;28;Kolkata;Student;2;0;7,9;5;0;'5-6 hours';Moderate;M,Pharm;No;11;1;No;0
+106978;Female;18;Bangalore;Student;4;0;5,76;5;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;8;2;Yes;1
+51268;Female;34;Kolkata;Student;3;0;9,04;1;0;'Less than 5 hours';Moderate;BSc;Yes;6;5;No;0
+60218;Female;28;Vadodara;Student;5;0;8,78;4;0;'5-6 hours';Moderate;MD;No;10;2;No;0
+34419;Female;24;Mumbai;Student;3;0;6,02;5;0;'7-8 hours';Moderate;B,Tech;Yes;12;5;No;1
+80769;Female;20;Meerut;Student;2;0;8,09;4;0;'5-6 hours';Unhealthy;'Class 12';Yes;3;1;Yes;0
+75766;Female;33;Meerut;Student;2;0;8,52;2;0;'Less than 5 hours';Unhealthy;B,Tech;Yes;7;1;No;1
+46026;Female;20;Vasai-Virar;Student;4;0;6,08;3;0;'7-8 hours';Healthy;'Class 12';No;0;2;Yes;0
+66171;Female;28;Rajkot;Student;5;0;6,1;5;0;'7-8 hours';Unhealthy;BBA;Yes;11;5;No;1
+126814;Female;25;Lucknow;Student;3;0;9,67;2;0;'Less than 5 hours';Healthy;BSc;No;9;1;Yes;0
+949;Female;20;Pune;Student;5;0;6,17;2;0;'More than 8 hours';Healthy;'Class 12';Yes;7;5;Yes;1
+59956;Female;18;Vadodara;Student;5;0;8,32;4;0;'More than 8 hours';Healthy;'Class 12';Yes;8;2;No;1
+11094;Female;21;Kalyan;Student;1;0;7,82;1;0;'Less than 5 hours';Healthy;BSc;Yes;12;5;No;1
+115510;Female;20;Agra;Student;4;0;6,99;2;0;'More than 8 hours';Healthy;'Class 12';Yes;9;4;No;1
+8117;Female;20;Delhi;Student;4;0;8,27;4;0;'More than 8 hours';Healthy;'Class 12';Yes;8;4;No;1
+68247;Female;23;Kalyan;Student;4;0;7,51;1;0;'5-6 hours';Moderate;BE;No;10;3;No;1
+14186;Female;28;Nagpur;Student;3;0;8,73;5;0;'5-6 hours';Unhealthy;BHM;Yes;10;3;No;1
+124360;Female;33;Chennai;Student;5;0;8,9;2;0;'Less than 5 hours';Unhealthy;MSc;Yes;11;1;Yes;1
+45006;Female;31;Ludhiana;Student;2;0;7,09;4;0;'Less than 5 hours';Healthy;BE;No;3;3;No;0
+135865;Female;26;Thane;Student;4;0;7,77;3;0;'Less than 5 hours';Moderate;BCA;Yes;10;2;No;1
+10775;Female;29;Nashik;Student;1;0;9,31;4;0;'7-8 hours';Moderate;B,Pharm;No;0;5;Yes;0
+44731;Female;29;Surat;Student;2;0;7,53;5;0;'Less than 5 hours';Moderate;LLB;No;0;1;Yes;0
+76952;Female;23;Kolkata;Student;2;0;6,83;2;0;'More than 8 hours';Unhealthy;BE;No;12;2;Yes;0
+73623;Female;20;Bangalore;Student;5;0;6,88;3;0;'Less than 5 hours';Moderate;'Class 12';Yes;12;4;Yes;1
+82163;Female;27;Hyderabad;Student;5;0;5,64;2;0;'More than 8 hours';Unhealthy;MSc;Yes;9;5;No;1
+85270;Female;20;Srinagar;Student;3;0;7,1;1;0;'7-8 hours';Moderate;'Class 12';No;7;5;No;1
+12119;Female;21;Ghaziabad;Student;1;0;7,25;3;0;'Less than 5 hours';Moderate;B,Arch;No;1;2;No;0
+30943;Female;34;Vasai-Virar;Student;5;0;9,21;4;0;'More than 8 hours';Unhealthy;BCA;Yes;6;5;No;1
+47416;Female;31;Hyderabad;Student;5;0;9,72;2;0;'More than 8 hours';Unhealthy;M,Ed;Yes;11;5;No;1
+102090;Female;21;Kalyan;Student;5;0;8,58;3;0;'5-6 hours';Moderate;BBA;Yes;2;5;Yes;1
+70616;Female;25;Ghaziabad;Student;1;0;5,82;1;0;'5-6 hours';Moderate;B,Arch;No;8;3;No;0
+2780;Female;32;Nashik;Student;4;0;5,55;4;0;'5-6 hours';Moderate;MBBS;Yes;11;3;No;1
+36401;Female;23;Srinagar;Student;1;0;8,92;3;0;'7-8 hours';Healthy;B,Tech;Yes;10;4;Yes;1
+28649;Female;24;Thane;Student;4;0;5,99;1;0;'More than 8 hours';Moderate;B,Pharm;Yes;7;4;Yes;1
+111652;Female;21;Srinagar;Student;3;0;9,79;1;0;'7-8 hours';Moderate;M,Com;Yes;0;5;Yes;1
+15112;Female;28;Kolkata;Student;1;0;5,32;3;0;'More than 8 hours';Healthy;M,Tech;No;12;4;No;0
+22138;Female;31;Vasai-Virar;Student;2;0;5,97;4;0;'Less than 5 hours';Unhealthy;LLM;Yes;0;1;Yes;0
+96963;Female;28;Visakhapatnam;Student;2;0;8,95;4;0;'Less than 5 hours';Moderate;BBA;No;2;5;No;1
+16202;Female;18;Surat;Student;4;0;7,09;3;0;'More than 8 hours';Healthy;'Class 12';No;6;5;Yes;1
+95700;Female;27;Pune;Student;5;0;7,28;5;0;'More than 8 hours';Healthy;B,Com;Yes;7;4;No;1
+70463;Female;32;Vasai-Virar;Student;4;0;7,28;4;0;'Less than 5 hours';Healthy;LLB;No;11;1;No;0
+69799;Female;29;Jaipur;Student;3;0;9,03;5;0;'5-6 hours';Moderate;BE;No;7;3;No;1
+69645;Female;22;Kolkata;Student;4;0;7,39;3;0;'5-6 hours';Moderate;BCA;Yes;3;2;Yes;0
+30089;Female;19;Nashik;Student;1;0;7,02;3;0;'5-6 hours';Unhealthy;'Class 12';Yes;0;5;No;1
+31427;Female;26;Vadodara;Student;4;0;9,44;4;0;'Less than 5 hours';Moderate;BBA;No;12;1;Yes;1
+83284;Female;24;Jaipur;Student;2;0;9,41;5;0;'Less than 5 hours';Unhealthy;MA;Yes;11;2;Yes;0
+97186;Female;25;Jaipur;Student;3;0;9,44;2;0;'Less than 5 hours';Healthy;B,Ed;No;8;3;No;0
+69898;Female;28;Jaipur;Student;4;0;5,67;2;0;'Less than 5 hours';Healthy;M,Ed;Yes;10;4;No;1
+20227;Female;30;Kalyan;Student;5;0;8,98;4;0;'Less than 5 hours';Unhealthy;BA;Yes;11;3;No;1
+38713;Female;28;Lucknow;Student;4;0;8;5;0;'More than 8 hours';Healthy;B,Ed;Yes;9;1;Yes;1
+34405;Female;31;Vasai-Virar;Student;3;0;8,46;3;0;'Less than 5 hours';Moderate;MD;Yes;11;2;No;0
+139716;Female;20;Ahmedabad;Student;4;0;7,22;4;0;'7-8 hours';Healthy;'Class 12';Yes;5;1;No;0
+133415;Female;23;Kalyan;Student;1;0;5,32;1;0;'More than 8 hours';Healthy;BSc;Yes;8;4;No;0
+127500;Female;33;Chennai;Student;1;0;5,56;4;0;'More than 8 hours';Unhealthy;MHM;No;0;3;Yes;0
+26412;Female;34;Agra;Student;1;0;8,69;1;0;'Less than 5 hours';Moderate;M,Tech;No;12;3;Yes;0
+130980;Female;34;Bhopal;Student;2;0;8,46;4;0;'7-8 hours';Moderate;B,Ed;No;9;1;Yes;0
+2007;Female;31;Indore;Student;2;0;7,53;3;0;'Less than 5 hours';Moderate;MBBS;No;3;1;Yes;0
+133244;Female;31;Thane;Student;1;0;9,21;3;0;'5-6 hours';Moderate;M,Ed;No;0;5;No;0
+134488;Female;28;Varanasi;Student;5;0;7,09;3;0;'More than 8 hours';Healthy;MBA;Yes;3;2;Yes;0
+7845;Female;28;Srinagar;Student;5;0;5,74;4;0;'5-6 hours';Moderate;B,Tech;Yes;11;3;Yes;1
+76469;Female;30;Indore;Student;5;0;6,5;1;0;'More than 8 hours';Moderate;PhD;No;12;4;Yes;1
+126369;Female;19;Ludhiana;Student;3;0;8,96;1;0;'Less than 5 hours';Unhealthy;'Class 12';No;10;4;No;1
+111423;Female;30;Patna;Student;1;0;9,98;2;0;'5-6 hours';Unhealthy;M,Tech;No;6;2;No;0
+118021;Female;20;Agra;Student;3;0;9,6;2;0;'Less than 5 hours';Moderate;'Class 12';Yes;0;5;No;1
+121339;Female;18;Chennai;Student;3;0;5,89;5;0;'5-6 hours';Unhealthy;'Class 12';Yes;7;5;No;1
+10331;Female;34;Ghaziabad;Student;4;0;9,11;5;0;'5-6 hours';Moderate;LLM;Yes;9;5;Yes;1
+7355;Female;24;Kalyan;Student;1;0;8,91;4;0;'More than 8 hours';Healthy;BBA;Yes;1;5;Yes;0
+139185;Female;29;Kalyan;Student;2;0;9,21;4;0;'5-6 hours';Unhealthy;BCA;Yes;6;1;No;0
+116541;Female;25;Agra;Student;5;0;9,44;2;0;'More than 8 hours';Moderate;M,Pharm;Yes;9;4;Yes;1
+71482;Female;19;Thane;Student;5;0;6,16;3;0;'5-6 hours';Healthy;'Class 12';No;2;3;Yes;0
+22540;Female;29;Ludhiana;Student;5;0;6,25;4;0;'Less than 5 hours';Moderate;ME;Yes;0;2;No;1
+26056;Female;32;Ludhiana;Student;2;0;5,74;3;0;'Less than 5 hours';Healthy;MD;Yes;10;3;Yes;1
+111666;Female;28;Rajkot;Student;3;0;8,59;4;0;'7-8 hours';Moderate;B,Pharm;No;9;1;No;0
+140690;Female;18;Ludhiana;Student;5;0;6,88;2;0;'Less than 5 hours';Healthy;'Class 12';Yes;10;5;No;1
+101205;Female;29;Kalyan;Student;2;0;8,53;3;0;'More than 8 hours';Healthy;B,Arch;No;10;5;No;0
+127629;Female;19;Kalyan;Student;4;0;9,1;5;0;'More than 8 hours';Moderate;'Class 12';Yes;11;5;Yes;1
+66646;Female;18;Indore;Student;3;0;7,87;2;0;'Less than 5 hours';Unhealthy;'Class 12';No;4;1;Yes;1
+103271;Female;20;Kolkata;Student;4;0;5,64;1;0;'7-8 hours';Unhealthy;'Class 12';Yes;11;4;Yes;1
+9196;Female;25;Ludhiana;Student;5;0;8,7;3;0;'Less than 5 hours';Unhealthy;B,Com;Yes;5;5;No;1
+52886;Female;28;Kalyan;Student;5;0;5,39;3;0;'Less than 5 hours';Unhealthy;B,Tech;No;5;5;Yes;1
+129735;Female;28;Ahmedabad;Student;2;0;7,94;2;0;'5-6 hours';Healthy;BHM;Yes;12;5;Yes;1
+103657;Female;33;Lucknow;Student;3;0;7,51;2;0;'5-6 hours';Moderate;MD;Yes;2;2;Yes;0
+3594;Female;33;Nashik;Student;4;0;7,88;2;0;'7-8 hours';Unhealthy;LLM;No;11;5;Yes;1
+71903;Female;30;Bangalore;Student;3;0;5,58;2;0;'5-6 hours';Healthy;BSc;No;8;3;Yes;0
+13160;Female;23;Pune;Student;3;0;7,71;1;0;'5-6 hours';Moderate;BSc;Yes;0;3;No;0
+120452;Female;31;Meerut;Student;2;0;9,86;3;0;'Less than 5 hours';Healthy;MD;Yes;2;1;No;0
+89661;Female;32;Meerut;Student;2;0;7,11;1;0;'Less than 5 hours';Moderate;B,Pharm;Yes;8;3;Yes;0
+63896;Female;23;Agra;Student;2;0;5,67;3;0;'Less than 5 hours';Moderate;M,Com;Yes;0;1;Yes;0
+86715;Female;31;Ludhiana;Student;5;0;9,56;4;0;'More than 8 hours';Unhealthy;B,Ed;Yes;5;5;No;1
+61053;Female;21;Meerut;Student;3;0;9,54;5;0;'5-6 hours';Healthy;B,Arch;No;2;4;Yes;0
+38094;Female;33;Rajkot;Student;1;0;5,82;3;0;'Less than 5 hours';Moderate;MD;No;9;5;Yes;0
+116682;Female;25;Agra;Student;5;0;5,55;3;0;'7-8 hours';Unhealthy;BCA;Yes;8;2;No;1
+27847;Female;24;Vasai-Virar;Student;5;0;9,21;1;0;'7-8 hours';Moderate;LLB;No;0;5;Yes;1
+72234;Female;25;Bhopal;Student;2;0;5,64;4;0;'7-8 hours';Unhealthy;M,Pharm;Yes;9;3;No;1
+132692;Female;28;Nashik;Student;1;0;7,04;5;0;'7-8 hours';Moderate;MBBS;Yes;5;5;No;1
+35827;Female;25;Lucknow;Student;4;0;7,94;1;0;'7-8 hours';Unhealthy;MHM;Yes;12;3;Yes;1
+39226;Female;33;Jaipur;Student;3;0;7,47;2;0;'7-8 hours';Moderate;M,Ed;Yes;9;1;No;0
+95346;Female;23;Bhopal;Student;3;0;6,78;1;0;'7-8 hours';Moderate;M,Com;Yes;12;4;No;1
+100449;Female;19;Ludhiana;Student;2;0;9,21;2;0;'5-6 hours';Healthy;'Class 12';Yes;12;4;Yes;1
+101507;Female;23;Indore;Student;4;0;6,99;4;0;'7-8 hours';Healthy;M,Com;Yes;5;2;No;1
+17402;Female;20;Kolkata;Student;1;0;7,53;2;0;'More than 8 hours';Healthy;'Class 12';No;9;2;Yes;0
+124285;Female;34;Surat;Student;1;0;5,27;4;0;'5-6 hours';Moderate;PhD;No;0;4;No;0
+103728;Female;26;Jaipur;Student;4;0;8,04;1;0;'7-8 hours';Unhealthy;MBBS;Yes;8;5;Yes;1
+95029;Female;29;Nagpur;Student;3;0;6,79;3;0;'7-8 hours';Unhealthy;M,Pharm;Yes;10;3;Yes;1
+24943;Female;27;Kanpur;Student;5;0;7,22;2;0;'Less than 5 hours';Healthy;BBA;Yes;4;5;Yes;0
+72136;Female;33;Kalyan;Student;4;0;9,95;5;0;'7-8 hours';Moderate;PhD;Yes;0;4;Yes;1
+45808;Female;27;Thane;Student;5;0;5,64;5;0;'Less than 5 hours';Unhealthy;M,Tech;Yes;10;4;Yes;1
+109298;Female;33;Faridabad;Student;3;0;9,36;5;0;'5-6 hours';Healthy;MBA;No;10;1;No;0
+16657;Female;32;Surat;Student;3;0;5,74;5;0;'7-8 hours';Unhealthy;B,Ed;Yes;11;5;Yes;1
+127422;Female;22;Rajkot;Student;1;0;7,88;4;0;'More than 8 hours';Unhealthy;BBA;Yes;11;5;Yes;1
+127091;Female;34;Meerut;Student;3;0;9,44;1;0;'7-8 hours';Moderate;B,Com;Yes;8;3;No;0
+32688;Female;21;Vadodara;Student;5;0;5,27;3;0;'More than 8 hours';Unhealthy;MSc;Yes;11;2;Yes;1
+88551;Female;33;Agra;Student;3;0;9,71;2;0;'Less than 5 hours';Moderate;B,Ed;No;0;5;Yes;1
+78181;Female;25;Srinagar;Student;2;0;7,46;3;0;'7-8 hours';Unhealthy;BE;No;12;1;Yes;0
+17655;Female;21;Agra;Student;1;0;8,69;2;0;'7-8 hours';Moderate;M,Ed;Yes;11;2;Yes;1
+15310;Female;26;Mumbai;Student;5;0;5,77;2;0;'More than 8 hours';Moderate;BBA;Yes;7;4;Yes;1
+137229;Female;24;Kanpur;Student;1;0;7,47;1;0;'Less than 5 hours';Healthy;'Class 12';No;11;3;Yes;1
+83903;Female;32;Jaipur;Student;1;0;7,88;2;0;'Less than 5 hours';Healthy;B,Arch;No;6;1;Yes;0
+22945;Female;20;Chennai;Student;5;0;6,03;3;0;'Less than 5 hours';Moderate;'Class 12';Yes;6;4;Yes;1
+54935;Female;27;Chennai;Student;4;0;9,54;2;0;'5-6 hours';Healthy;M,Tech;Yes;9;5;No;1
+123103;Female;29;Meerut;Student;4;0;7,02;3;0;'5-6 hours';Moderate;BSc;Yes;6;5;No;1
+75464;Female;30;Kolkata;Student;5;0;8,58;5;0;'Less than 5 hours';Healthy;BA;Yes;3;5;No;1
+78141;Female;18;Pune;Student;2;0;5,7;2;0;'5-6 hours';Unhealthy;'Class 12';Yes;10;4;Yes;1
+56347;Female;33;Lucknow;Student;3;0;9,96;2;0;'5-6 hours';Healthy;B,Ed;Yes;3;2;Yes;0
+100805;Female;20;Chennai;Student;5;0;8,74;1;0;'More than 8 hours';Healthy;'Class 12';No;0;2;No;0
+19967;Female;26;Surat;Student;5;0;9,21;2;0;'7-8 hours';Healthy;PhD;Yes;12;5;Yes;1
+75644;Female;33;Kanpur;Student;5;0;7,92;2;0;'Less than 5 hours';Moderate;B,Ed;No;11;1;No;0
+18417;Female;33;Jaipur;Student;2;0;5,97;3;0;'Less than 5 hours';Unhealthy;B,Tech;No;6;2;No;0
+89974;Female;18;Bhopal;Student;4;0;6,59;5;0;'7-8 hours';Unhealthy;'Class 12';Yes;5;5;No;1
+84860;Female;30;Thane;Student;3;0;7,77;2;0;'Less than 5 hours';Moderate;B,Ed;No;10;4;No;1
+132447;Female;21;Hyderabad;Student;3;0;8,91;4;0;'More than 8 hours';Moderate;B,Arch;Yes;7;5;Yes;1
+53077;Female;28;Visakhapatnam;Student;3;0;5,64;4;0;'Less than 5 hours';Unhealthy;B,Ed;No;1;4;No;0
+48396;Female;31;Delhi;Student;1;0;8,95;2;0;'Less than 5 hours';Healthy;LLM;No;6;1;No;0
+86825;Female;34;Hyderabad;Student;3;0;5,27;4;0;'More than 8 hours';Unhealthy;BE;Yes;12;2;No;1
+75740;Female;21;Ludhiana;Student;2;0;8,5;5;0;'Less than 5 hours';Unhealthy;B,Arch;Yes;11;1;Yes;1
+132824;Female;30;Kolkata;Student;2;0;7,21;3;0;'5-6 hours';Moderate;B,Com;No;2;2;No;0
+104112;Female;21;Nagpur;Student;2;0;8,53;5;0;'More than 8 hours';Unhealthy;M,Ed;Yes;9;2;Yes;0
+99829;Female;33;Nagpur;Student;4;0;5,64;5;0;'7-8 hours';Unhealthy;MBA;No;6;1;Yes;0
+109640;Female;27;Surat;Student;3;0;8,74;2;0;'Less than 5 hours';Moderate;M,Tech;Yes;4;2;Yes;0
+62388;Female;31;Visakhapatnam;Student;1;0;7,09;1;0;'7-8 hours';Healthy;BA;No;10;3;No;0
+121015;Female;20;Chennai;Student;4;0;5,59;4;0;'5-6 hours';Moderate;'Class 12';No;4;3;Yes;1
+89876;Female;23;Varanasi;Student;1;0;6,37;5;0;'7-8 hours';Unhealthy;BE;Yes;12;2;No;1
+132414;Female;18;Pune;Student;5;0;7,3;5;0;'5-6 hours';Unhealthy;'Class 12';Yes;8;3;No;1
+88721;Female;22;Srinagar;Student;3;0;6,65;1;0;'More than 8 hours';Unhealthy;MCA;Yes;2;4;No;1
+105088;Female;24;Mumbai;Student;1;0;9,41;4;0;'7-8 hours';Healthy;MA;Yes;6;4;No;0
+53351;Female;28;Delhi;Student;5;0;8,79;2;0;'7-8 hours';Moderate;PhD;Yes;10;3;Yes;1
+16037;Female;20;Kolkata;Student;4;0;5,91;3;0;'7-8 hours';Healthy;'Class 12';No;6;4;Yes;1
+116560;Female;23;Surat;Student;5;0;5,32;4;0;'7-8 hours';Moderate;B,Tech;Yes;10;5;No;1
+128760;Female;31;Visakhapatnam;Student;1;0;7,7;3;0;'Less than 5 hours';Moderate;M,Ed;No;5;4;Yes;0
+112906;Female;22;Ludhiana;Student;5;0;6,38;5;0;'Less than 5 hours';Unhealthy;BSc;Yes;12;3;Yes;1
+65702;Female;20;Mumbai;Student;1;0;9,74;2;0;'7-8 hours';Healthy;'Class 12';Yes;0;3;Yes;0
+40959;Female;23;Bangalore;Student;1;0;9,04;2;0;'More than 8 hours';Unhealthy;B,Ed;No;7;2;No;0
+32506;Female;29;Vadodara;Student;4;0;8,04;3;0;'Less than 5 hours';Moderate;BE;Yes;3;5;Yes;1
+23355;Female;20;Srinagar;Student;2;0;8,03;1;0;'Less than 5 hours';Healthy;'Class 12';Yes;7;3;No;1
+48208;Female;31;Indore;Student;2;0;7,53;4;0;'Less than 5 hours';Unhealthy;M,Com;Yes;0;1;Yes;0
+115494;Female;24;Kanpur;Student;5;0;6,99;3;0;'Less than 5 hours';Moderate;B,Arch;Yes;12;5;Yes;1
+111903;Female;25;Faridabad;Student;5;0;6,03;3;0;'5-6 hours';Unhealthy;BBA;Yes;9;2;No;1
+47142;Female;29;Vadodara;Student;5;0;8,81;4;0;'7-8 hours';Unhealthy;M,Com;No;4;4;Yes;1
+51541;Female;28;Jaipur;Student;1;0;9,89;2;0;'Less than 5 hours';Healthy;B,Pharm;Yes;12;4;No;1
+26411;Female;20;Pune;Student;3;0;9,1;4;0;'More than 8 hours';Moderate;'Class 12';Yes;5;4;Yes;0
+12700;Female;23;Bhopal;Student;4;0;8,17;1;0;'Less than 5 hours';Moderate;MCA;Yes;1;2;Yes;1
+26394;Female;24;Kolkata;Student;4;0;8,95;1;0;'Less than 5 hours';Healthy;MBBS;Yes;12;5;Yes;1
+119960;Female;25;Ghaziabad;Student;3;0;5,76;5;0;'Less than 5 hours';Moderate;B,Arch;No;9;3;No;0
+18176;Female;32;Visakhapatnam;Student;5;0;5,3;1;0;'7-8 hours';Moderate;MD;Yes;6;5;No;1
+255;Female;21;Bhopal;Student;5;0;9,72;2;0;'5-6 hours';Moderate;B,Com;Yes;0;4;Yes;1
+13680;Female;18;Kolkata;Student;3;0;5,37;2;0;'7-8 hours';Unhealthy;'Class 12';Yes;5;5;Yes;1
+99039;Female;28;Patna;Student;3;0;7,27;5;0;'More than 8 hours';Healthy;BHM;Yes;7;1;No;1
+8362;Female;27;Patna;Student;2;0;6,7;1;0;'5-6 hours';Moderate;BA;Yes;9;2;No;0
+4820;Female;22;Agra;Student;3;0;5,82;1;0;'Less than 5 hours';Moderate;M,Com;Yes;5;3;No;1
+74111;Female;34;Srinagar;Student;3;0;5,48;5;0;'5-6 hours';Healthy;MD;Yes;9;5;No;1
+56531;Female;20;Kanpur;Student;3;0;7,28;3;0;'More than 8 hours';Healthy;'Class 12';Yes;9;3;No;1
+89158;Female;20;Mumbai;Student;2;0;6,7;4;0;'5-6 hours';Unhealthy;'Class 12';Yes;11;2;No;0
+70200;Female;19;Ahmedabad;Student;3;0;5,12;5;0;'5-6 hours';Moderate;'Class 12';No;8;1;No;0
+67377;Female;34;Hyderabad;Student;4;0;8,17;3;0;'More than 8 hours';Unhealthy;MA;Yes;10;4;No;1
+126249;Female;22;Bhopal;Student;1;0;5,79;2;0;'More than 8 hours';Healthy;M,Tech;No;11;1;No;0
+39298;Female;28;Hyderabad;Student;5;0;5,85;4;0;'5-6 hours';Moderate;M,Pharm;Yes;8;3;No;1
+27135;Female;33;Bhopal;Student;5;0;8,98;1;0;'5-6 hours';Healthy;LLM;Yes;5;2;Yes;1
+27652;Female;20;Nashik;Student;5;0;8,65;2;0;'7-8 hours';Unhealthy;'Class 12';Yes;10;5;No;1
+74721;Female;25;Nagpur;Student;5;0;7,51;1;0;'Less than 5 hours';Unhealthy;BHM;Yes;7;4;Yes;1
+64852;Female;29;Chennai;Student;3;0;9,41;3;0;'7-8 hours';Healthy;BSc;Yes;12;5;Yes;1
+63525;Female;23;Surat;Student;5;0;8,24;2;0;'7-8 hours';Healthy;BCA;Yes;12;1;No;1
+95002;Female;26;Pune;Student;4;0;8,65;4;0;'5-6 hours';Unhealthy;M,Ed;Yes;10;5;No;1
+45878;Female;29;Agra;Student;5;0;9,44;2;0;'7-8 hours';Unhealthy;LLM;Yes;12;5;Yes;1
+40320;Female;23;Srinagar;Student;2;0;5,16;3;0;'5-6 hours';Unhealthy;BE;Yes;6;4;Yes;1
+5624;Female;24;Surat;Student;4;0;8,9;1;0;'5-6 hours';Moderate;BSc;Yes;2;2;No;1
+67352;Female;28;Vadodara;Student;5;0;5,74;4;0;'Less than 5 hours';Healthy;B,Ed;Yes;9;5;Yes;1
+137913;Female;18;Kolkata;Student;5;0;9,67;1;0;'Less than 5 hours';Moderate;'Class 12';Yes;11;3;Yes;1
+101609;Female;20;Rajkot;Student;3;0;9,39;1;0;'7-8 hours';Unhealthy;'Class 12';Yes;9;2;Yes;1
+112670;Female;18;Kolkata;Student;4;0;5,42;5;0;'5-6 hours';Healthy;'Class 12';No;0;2;No;0
+50258;Female;29;Kolkata;Student;5;0;9,44;4;0;'Less than 5 hours';Healthy;BHM;Yes;6;5;Yes;1
+76525;Female;24;Srinagar;Student;4;0;6,78;5;0;'More than 8 hours';Moderate;BCA;No;10;3;Yes;0
+93022;Female;28;Ahmedabad;Student;4;0;5,37;4;0;'Less than 5 hours';Moderate;B,Tech;No;2;2;No;0
+70307;Female;24;Faridabad;Student;5;0;8,14;4;0;'Less than 5 hours';Healthy;'Class 12';No;10;5;Yes;0
+16994;Female;21;Meerut;Student;2;0;5,16;4;0;'More than 8 hours';Unhealthy;MCA;Yes;9;5;Yes;1
+129916;Female;20;Ahmedabad;Student;5;0;9,93;2;0;'Less than 5 hours';Moderate;'Class 12';Yes;6;4;No;1
+19044;Female;32;Visakhapatnam;Student;3;0;9,96;1;0;'Less than 5 hours';Moderate;LLM;Yes;2;3;No;0
+89702;Female;21;Visakhapatnam;Student;2;0;8,28;4;0;'5-6 hours';Healthy;MSc;No;4;2;No;0
+31159;Female;18;Vasai-Virar;Student;3;0;9,21;3;0;'More than 8 hours';Unhealthy;'Class 12';Yes;0;4;Yes;1
+139154;Female;23;Vasai-Virar;Student;5;0;9,03;1;0;'Less than 5 hours';Unhealthy;BSc;Yes;9;5;No;1
+34652;Female;27;Kalyan;Student;2;0;5,42;2;0;'5-6 hours';Moderate;M,Com;No;7;2;No;0
+60413;Female;25;Agra;Student;3;0;9,36;4;0;'5-6 hours';Moderate;BHM;Yes;10;4;Yes;1
+58195;Female;26;Patna;Student;1;0;7,03;2;0;'More than 8 hours';Unhealthy;MBBS;No;1;4;No;1
+93996;Female;27;Ludhiana;Student;1;0;7,53;4;0;'7-8 hours';Moderate;BHM;Yes;5;5;No;1
+21977;Female;19;Vadodara;Student;3;0;7,48;5;0;'7-8 hours';Moderate;'Class 12';Yes;1;4;No;1
+69125;Female;18;Bangalore;Student;4;0;7,88;2;0;'5-6 hours';Unhealthy;'Class 12';Yes;9;5;Yes;1
+100811;Female;20;Indore;Student;3;0;8,9;4;0;'Less than 5 hours';Moderate;'Class 12';No;0;5;Yes;0
+113068;Female;30;Meerut;Student;3;0;8,81;2;0;'Less than 5 hours';Healthy;B,Com;Yes;8;1;No;0
+130794;Female;28;Ghaziabad;Student;5;0;6,51;2;0;'Less than 5 hours';Moderate;LLB;Yes;10;5;Yes;1
+73403;Female;28;Kalyan;Student;3;0;8,7;4;0;'Less than 5 hours';Healthy;MD;Yes;7;4;Yes;1
+71453;Female;18;Ahmedabad;Student;4;0;6,25;4;0;'5-6 hours';Unhealthy;'Class 12';Yes;7;2;Yes;1
+124935;Female;20;Bangalore;Student;3;0;7,09;4;0;'Less than 5 hours';Moderate;'Class 12';No;0;3;No;0
+104617;Female;23;Nagpur;Student;4;0;9,33;1;0;'More than 8 hours';Moderate;M,Com;No;5;2;No;0
+80172;Female;31;Vadodara;Student;5;0;8,08;3;0;'7-8 hours';Unhealthy;ME;Yes;3;1;Yes;1
+42876;Female;21;Kalyan;Student;1;0;7,94;1;0;'7-8 hours';Unhealthy;B,Arch;Yes;10;4;No;1
+49784;Female;18;Ludhiana;Student;3;0;8,7;5;0;'More than 8 hours';Moderate;'Class 12';Yes;1;1;Yes;1
+133122;Female;22;Thane;Student;1;0;6,74;3;0;'5-6 hours';Healthy;BHM;No;12;1;No;0
+48409;Female;30;Surat;Student;5;0;7,53;3;0;'Less than 5 hours';Moderate;MSc;Yes;9;5;Yes;1
+34116;Female;31;Bhopal;Student;4;0;9,71;3;0;'5-6 hours';Healthy;M,Tech;Yes;9;5;Yes;1
+112778;Female;25;Bangalore;Student;5;0;8,58;4;0;'Less than 5 hours';Healthy;M,Ed;Yes;11;5;Yes;1
+101662;Female;18;Chennai;Student;5;0;7,99;4;0;'7-8 hours';Moderate;'Class 12';Yes;11;3;No;1
+132481;Female;23;Rajkot;Student;3;0;6,02;4;0;'7-8 hours';Healthy;B,Com;No;0;2;Yes;0
+32181;Female;20;Indore;Student;5;0;8,24;2;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;12;3;No;1
+108477;Female;19;Vasai-Virar;Student;3;0;7,24;5;0;'7-8 hours';Unhealthy;'Class 12';Yes;8;4;Yes;1
+58976;Female;25;Kanpur;Student;2;0;6,05;4;0;'Less than 5 hours';Moderate;M,Tech;Yes;1;2;No;0
+140272;Female;27;Thane;Student;2;0;7,83;3;0;'Less than 5 hours';Unhealthy;BHM;Yes;9;5;No;1
+26874;Female;32;Thane;Student;1;0;9,97;5;0;'Less than 5 hours';Unhealthy;LLB;No;1;1;No;0
+122385;Female;27;Ghaziabad;Student;3;0;5,86;5;0;'7-8 hours';Unhealthy;MBA;No;9;3;No;0
+133054;Female;20;Ludhiana;Student;5;0;5,65;1;0;'More than 8 hours';Moderate;'Class 12';Yes;3;5;No;1
+49618;Female;21;Vasai-Virar;Student;3;0;5,57;2;0;'Less than 5 hours';Healthy;B,Com;Yes;3;4;No;0
+43338;Female;20;Varanasi;Student;1;0;8,39;4;0;'Less than 5 hours';Moderate;'Class 12';Yes;11;2;Yes;0
+81664;Female;31;Faridabad;Student;4;0;7,88;3;0;'5-6 hours';Healthy;B,Com;No;11;1;No;0
+15561;Female;31;Faridabad;Student;1;0;8,95;5;0;'5-6 hours';Moderate;MD;No;10;1;Yes;0
+9280;Female;20;Kanpur;Student;2;0;6,16;1;0;'5-6 hours';Healthy;'Class 12';Yes;11;4;Yes;1
+98022;Female;20;Delhi;Student;3;0;6,47;3;0;'Less than 5 hours';Healthy;'Class 12';Yes;3;1;No;1
+90337;Female;22;Kolkata;Student;3;0;7,77;2;0;'Less than 5 hours';Moderate;BCA;Yes;2;3;No;1
+90487;Female;29;Pune;Student;1;0;9,33;4;0;'5-6 hours';Moderate;BA;No;9;1;No;0
+12882;Female;28;Thane;Student;4;0;8,95;4;0;'Less than 5 hours';Moderate;B,Pharm;Yes;3;2;Yes;1
+119329;Female;27;Nashik;Student;3;0;5,6;2;0;'Less than 5 hours';Unhealthy;ME;Yes;0;5;Yes;1
+134753;Female;30;Srinagar;Student;1;0;9,54;3;0;'7-8 hours';Moderate;B,Ed;Yes;7;2;Yes;0
+60881;Female;20;Indore;Student;4;0;9,42;3;0;'7-8 hours';Unhealthy;'Class 12';Yes;9;5;Yes;1
+60222;Female;20;Kanpur;Student;3;0;5,41;5;0;'Less than 5 hours';Moderate;'Class 12';Yes;7;4;No;1
+86723;Female;21;Rashi;Student;1;0;6,36;2;0;'7-8 hours';Moderate;BA;No;3;2;No;0
+76252;Female;28;Patna;Student;3;0;8,96;2;0;'More than 8 hours';Moderate;B,Tech;Yes;10;5;Yes;1
+29651;Female;25;Varanasi;Student;4;0;9,71;4;0;'7-8 hours';Moderate;B,Arch;No;1;4;No;0
+30166;Female;24;Surat;Student;5;0;9,63;3;0;'7-8 hours';Moderate;B,Arch;Yes;10;2;No;1
+15457;Female;27;Jaipur;Student;5;0;7,1;2;0;'5-6 hours';Unhealthy;BHM;Yes;2;2;No;1
+108653;Female;18;Ludhiana;Student;5;0;5,59;4;0;'5-6 hours';Healthy;'Class 12';Yes;2;1;No;1
+110590;Female;20;Kalyan;Student;3;0;5,8;5;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;10;5;No;1
+90785;Female;18;Mumbai;Student;5;0;9,86;4;0;'7-8 hours';Unhealthy;'Class 12';Yes;10;1;No;1
+71423;Female;27;Nagpur;Student;1;0;6,82;3;0;'More than 8 hours';Healthy;MD;Yes;3;1;No;0
+74968;Female;20;Pune;Student;2;0;6,75;4;0;'More than 8 hours';Unhealthy;'Class 12';No;1;1;No;0
+5295;Female;28;Meerut;Student;5;0;6,83;2;0;'Less than 5 hours';Healthy;B,Ed;Yes;7;1;No;1
+84446;Female;20;Meerut;Student;3;0;9,71;2;0;'Less than 5 hours';Unhealthy;MBA;Yes;11;5;Yes;1
+104568;Female;19;Pune;Student;3;0;7,51;1;0;'5-6 hours';Healthy;'Class 12';No;9;5;Yes;0
+125928;Female;28;Rajkot;Student;5;0;9,63;1;0;'Less than 5 hours';Healthy;PhD;Yes;12;4;Yes;1
+74594;Female;33;Indore;Student;2;0;9,6;3;0;'Less than 5 hours';Unhealthy;M,Ed;Yes;8;3;No;0
+14472;Female;33;Chennai;Student;5;0;9,19;2;0;'5-6 hours';Unhealthy;PhD;Yes;11;4;No;1
+52301;Female;28;Hyderabad;Student;2;0;6,95;5;0;'7-8 hours';Moderate;B,Arch;No;10;2;Yes;0
+897;Female;18;Thane;Student;4;0;8,04;4;0;'More than 8 hours';Healthy;'Class 12';Yes;11;4;Yes;1
+113739;Female;18;Ahmedabad;Student;3;0;6,89;1;0;'5-6 hours';Unhealthy;'Class 12';Yes;8;4;No;1
+110009;Female;30;Lucknow;Student;1;0;9,97;4;0;'7-8 hours';Moderate;LLB;Yes;11;5;No;1
+38709;Female;28;Hyderabad;Student;3;0;9,44;4;0;'7-8 hours';Unhealthy;MBA;Yes;5;3;Yes;1
+40622;Female;29;Bhopal;Student;2;0;9,54;2;0;'Less than 5 hours';Healthy;M,Tech;Yes;6;5;No;1
+110738;Female;18;Patna;Student;3;0;9,96;5;0;'7-8 hours';Healthy;'Class 12';Yes;2;4;Yes;1
+120813;Female;33;Bhopal;Student;3;0;7,77;2;0;'7-8 hours';Moderate;MD;Yes;10;5;Yes;1
+18012;Female;27;Patna;Student;5;0;7,53;1;0;'Less than 5 hours';Unhealthy;B,Pharm;Yes;6;5;No;1
+24146;Female;29;Srinagar;Student;1;0;6,61;2;0;'Less than 5 hours';Moderate;M,Ed;No;9;1;No;0
+66096;Female;33;Thane;Student;2;0;5,32;2;0;'7-8 hours';Healthy;B,Ed;Yes;5;1;Yes;0
+97736;Female;34;Kolkata;Student;1;0;9,34;4;0;'Less than 5 hours';Healthy;M,Tech;No;10;3;No;0
+94901;Female;34;Thane;Student;3;0;8,95;4;0;'7-8 hours';Unhealthy;M,Ed;Yes;0;1;Yes;1
+31080;Female;28;Surat;Student;3;0;8,62;3;0;'7-8 hours';Healthy;ME;Yes;9;3;No;1
+67008;Female;20;Delhi;Student;4;0;7,5;4;0;'5-6 hours';Healthy;'Class 12';Yes;10;2;Yes;1
+73027;Female;34;Chennai;Student;2;0;8,24;3;0;'5-6 hours';Healthy;BE;No;8;3;Yes;0
+134184;Female;32;Surat;Student;2;0;7,24;1;0;'5-6 hours';Moderate;B,Com;No;9;2;No;0
+53904;Female;26;Vasai-Virar;Student;2;0;7,53;5;0;'Less than 5 hours';Healthy;B,Ed;Yes;4;5;Yes;1
+84339;Female;18;Delhi;Student;4;0;8,52;2;0;'5-6 hours';Unhealthy;'Class 12';Yes;0;5;Yes;1
+79564;Female;34;Bangalore;Student;4;0;8,39;4;0;'5-6 hours';Unhealthy;BCA;Yes;6;3;No;0
+55011;Female;33;Kalyan;Student;3;0;8,95;1;0;'Less than 5 hours';Moderate;BCA;Yes;3;2;Yes;1
+133787;Female;24;Varanasi;Student;4;0;8,74;4;0;'5-6 hours';Moderate;MBBS;Yes;2;2;Yes;1
+81008;Female;24;Meerut;Student;4;0;9,39;4;0;'7-8 hours';Healthy;B,Pharm;Yes;0;5;Yes;1
+128977;Female;23;Visakhapatnam;Student;4;0;6,37;4;0;'Less than 5 hours';Healthy;MCA;Yes;2;2;Yes;1
+1432;Female;31;Visakhapatnam;Student;5;0;9,39;5;0;'Less than 5 hours';Moderate;'Class 12';No;1;1;Yes;1
+69768;Female;19;Ahmedabad;Student;3;0;6,25;4;0;'7-8 hours';Healthy;'Class 12';Yes;12;4;No;1
+53209;Female;18;Vasai-Virar;Student;4;0;6,5;5;0;'5-6 hours';Healthy;'Class 12';Yes;11;5;Yes;1
+101093;Female;20;Bangalore;Student;2;0;9,24;4;0;'Less than 5 hours';Moderate;'Class 12';No;1;4;No;1
+75483;Female;25;Jaipur;Student;1;0;8,54;4;0;'More than 8 hours';Moderate;B,Ed;Yes;7;4;Yes;1
+2471;Female;28;Srinagar;Student;4;0;9,72;1;0;'Less than 5 hours';Unhealthy;B,Tech;Yes;12;3;No;1
+112626;Female;26;Thane;Student;3;0;9,69;4;0;'7-8 hours';Moderate;BCA;Yes;10;4;Yes;1
+43106;Female;33;Patna;Student;2;0;9,39;3;0;'7-8 hours';Healthy;B,Ed;No;6;1;Yes;0
+29508;Female;24;Faridabad;Student;1;0;9,95;2;0;'More than 8 hours';Unhealthy;'Class 12';Yes;0;1;Yes;0
+90044;Female;21;Hyderabad;Student;1;0;8,23;2;0;'More than 8 hours';Healthy;MSc;No;2;5;Yes;0
+83746;Female;23;Bhopal;Student;1;0;7,09;1;0;'5-6 hours';Healthy;MCA;Yes;10;1;Yes;0
+24622;Female;21;Agra;Student;1;0;8,28;2;0;'5-6 hours';Moderate;B,Arch;Yes;2;5;No;1
+40357;Female;20;Mumbai;Student;4;0;8,42;1;0;'5-6 hours';Moderate;'Class 12';Yes;8;1;Yes;1
+46480;Female;31;Chennai;Student;2;0;5,46;2;0;'7-8 hours';Healthy;PhD;Yes;7;3;No;1
+72181;Female;30;Agra;Student;5;0;5,6;3;0;'Less than 5 hours';Moderate;B,Ed;No;6;3;Yes;0
+42754;Female;24;Visakhapatnam;Student;1;0;5,32;1;0;'More than 8 hours';Moderate;MCA;No;8;5;Yes;0
+49624;Female;25;Indore;Student;1;0;5,75;5;0;'7-8 hours';Unhealthy;BHM;No;0;2;No;0
+87115;Female;19;Bhopal;Student;2;0;8;4;0;'More than 8 hours';Moderate;'Class 12';No;3;3;No;0
+33495;Female;20;Thane;Student;4;0;7,08;2;0;'5-6 hours';Unhealthy;'Class 12';No;5;4;No;1
+59744;Female;34;Srinagar;Student;4;0;9,56;3;0;'More than 8 hours';Unhealthy;MD;Yes;8;1;No;0
+79541;Female;25;Kalyan;Student;2;0;8,74;4;0;'More than 8 hours';Healthy;B,Tech;No;8;2;No;0
+83796;Female;34;Bangalore;Student;3;0;9,84;5;0;'More than 8 hours';Moderate;B,Ed;Yes;6;1;No;0
+117782;Female;27;Nashik;Student;2;0;8,14;4;0;'5-6 hours';Unhealthy;BSc;No;12;4;Yes;0
+112606;Female;32;Ghaziabad;Student;5;0;8,91;4;0;'Less than 5 hours';Moderate;BSc;Yes;7;4;No;1
+15952;Female;25;Vadodara;Student;2;0;7,64;5;0;'More than 8 hours';Moderate;M,Pharm;No;12;5;No;0
+1746;Female;24;Rajkot;Student;1;0;7,39;3;0;'5-6 hours';Moderate;B,Arch;No;3;1;Yes;0
+17348;Female;27;Kolkata;Student;2;0;9,86;2;0;'7-8 hours';Moderate;B,Ed;Yes;6;4;Yes;1
+105396;Female;20;Ludhiana;Student;3;0;7,77;4;0;'More than 8 hours';Moderate;'Class 12';Yes;8;5;No;0
+99146;Female;23;Surat;Student;5;0;7,83;1;0;'Less than 5 hours';Healthy;MSc;Yes;9;1;Yes;1
+103084;Female;21;Chennai;Student;2;0;9,89;3;0;'More than 8 hours';Moderate;MSc;Yes;6;1;Yes;1
+11949;Female;34;Thane;Student;5;0;5,37;1;0;'Less than 5 hours';Unhealthy;MCA;Yes;6;1;Yes;0
+84368;Female;20;Kolkata;Student;3;0;7,25;2;0;'7-8 hours';Moderate;'Class 12';No;11;4;No;1
+103291;Female;28;Kolkata;Student;5;0;8,35;3;0;'7-8 hours';Unhealthy;B,Arch;No;8;5;Yes;1
+137827;Female;48;Surat;Student;1;0;8,92;4;0;'7-8 hours';Moderate;MD;Yes;12;4;Yes;0
+41016;Female;21;Ahmedabad;Student;2;0;9,78;4;0;'7-8 hours';Unhealthy;B,Com;Yes;11;4;Yes;1
+83497;Female;34;Jaipur;Student;1;0;8,14;2;0;'Less than 5 hours';Healthy;BCA;No;7;2;No;0
+30999;Female;31;Indore;Student;5;0;8,4;1;0;'5-6 hours';Moderate;LLB;No;8;3;No;0
+21769;Female;20;Mumbai;Student;3;0;5,67;5;0;'More than 8 hours';Healthy;'Class 12';Yes;11;5;Yes;1
+70191;Female;24;Bangalore;Student;4;0;8,91;1;0;'More than 8 hours';Moderate;B,Arch;Yes;9;5;Yes;1
+124414;Female;25;Pune;Student;4;0;6;1;0;'More than 8 hours';Moderate;M,Pharm;Yes;1;5;No;1
+124280;Female;24;Bangalore;Student;5;0;5,76;1;0;'7-8 hours';Unhealthy;BCA;Yes;6;2;No;1
+14329;Female;30;Ludhiana;Student;3;0;5,82;1;0;'Less than 5 hours';Healthy;MBA;No;0;4;No;0
+122156;Female;19;Hyderabad;Student;4;0;7,25;2;0;'5-6 hours';Moderate;'Class 12';No;12;1;No;1
+72729;Female;22;Ahmedabad;Student;1;0;6,42;1;0;'5-6 hours';Healthy;MSc;No;11;4;No;0
+103323;Female;22;Kalyan;Student;4;0;8;3;0;'Less than 5 hours';Unhealthy;BBA;Yes;7;3;No;1
+103674;Female;18;Pune;Student;5;0;7,77;4;0;'More than 8 hours';Moderate;'Class 12';Yes;11;4;Yes;1
+111881;Female;25;Lucknow;Student;5;0;6,51;4;0;'More than 8 hours';Moderate;M,Ed;Yes;10;5;Yes;1
+8135;Female;22;Srinagar;Student;3;0;5,16;2;0;'More than 8 hours';Moderate;B,Ed;Yes;1;5;Yes;0
+77471;Female;20;Ludhiana;Student;3;0;6,37;4;0;'More than 8 hours';Unhealthy;'Class 12';Yes;12;5;Yes;1
+127836;Female;20;Mumbai;Student;4;0;5,74;5;0;'Less than 5 hours';Healthy;'Class 12';Yes;6;5;Yes;1
+87392;Female;34;Srinagar;Student;4;0;9,34;2;0;'7-8 hours';Unhealthy;M,Ed;No;9;3;No;0
+44800;Female;34;Srinagar;Student;2;0;6,79;3;0;'Less than 5 hours';Healthy;B,Com;No;6;4;No;1
+1686;Female;21;Bhopal;Student;3;0;5,66;4;0;'5-6 hours';Unhealthy;BCA;No;6;2;Yes;1
+75348;Female;21;Thane;Student;2;0;8,96;3;0;'Less than 5 hours';Healthy;MCA;No;8;4;Yes;0
+25853;Female;30;Bhopal;Student;1;0;9,24;4;0;'5-6 hours';Healthy;BE;No;5;5;Yes;0
+43064;Female;29;Hyderabad;Student;4;0;8,59;3;0;'5-6 hours';Unhealthy;B,Pharm;Yes;10;4;Yes;1
+27029;Female;29;Bangalore;Student;4;0;6,21;1;0;'5-6 hours';Unhealthy;BCA;Yes;7;5;No;1
+40448;Female;29;Surat;Student;1;0;5,88;2;0;'Less than 5 hours';Moderate;MBA;Yes;12;4;No;1
+18554;Female;27;Pune;Student;1;0;5,97;3;0;'5-6 hours';Healthy;BBA;Yes;0;1;No;0
+90343;Female;28;Mumbai;Student;1;0;8,07;4;0;'Less than 5 hours';Moderate;B,Ed;Yes;0;2;Yes;0
+110698;Female;21;Bangalore;Student;2;0;9,89;5;0;'Less than 5 hours';Unhealthy;B,Com;Yes;8;5;No;1
+136288;Female;20;Kanpur;Student;3;0;5,08;2;0;'More than 8 hours';Healthy;'Class 12';No;0;2;No;0
+86762;Female;23;Thane;Student;1;0;9,1;1;0;'5-6 hours';Healthy;M,Com;No;4;1;No;0
+111191;Female;20;Surat;Student;4;0;8,55;5;0;'7-8 hours';Moderate;'Class 12';Yes;12;5;Yes;1
+105768;Female;34;Srinagar;Student;2;0;5,84;4;0;'Less than 5 hours';Healthy;MSc;Yes;8;2;No;0
+18491;Female;24;Visakhapatnam;Student;2;0;8,5;5;0;'Less than 5 hours';Moderate;BA;No;0;1;No;1
+100618;Female;24;Hyderabad;Student;4;0;9,7;2;0;'7-8 hours';Moderate;BCA;Yes;10;5;No;1
+63352;Female;19;Jaipur;Student;2;0;8,91;3;0;'5-6 hours';Healthy;'Class 12';No;12;1;No;0
+31174;Female;33;Vadodara;Student;5;0;8,59;3;0;'Less than 5 hours';Moderate;B,Ed;Yes;10;4;No;1
+74014;Female;25;Kanpur;Student;1;0;7,82;4;0;'7-8 hours';Unhealthy;B,Tech;No;0;2;No;0
+10442;Female;24;Kalyan;Student;4;0;9,04;3;0;'More than 8 hours';Unhealthy;B,Arch;Yes;6;3;Yes;1
+13013;Female;18;Chennai;Student;5;0;6,02;2;0;'5-6 hours';Healthy;'Class 12';No;8;2;Yes;1
+94657;Female;33;Ludhiana;Student;3;0;6,47;1;0;'Less than 5 hours';Moderate;M,Tech;No;10;1;Yes;0
+115407;Female;28;Vadodara;Student;5;0;5,87;3;0;'5-6 hours';Healthy;B,Com;Yes;12;3;Yes;1
+70610;Female;33;Kanpur;Student;2;0;9,67;3;0;'7-8 hours';Moderate;M,Tech;No;4;1;Yes;0
+91400;Female;28;Vasai-Virar;Student;5;0;8,44;3;0;'Less than 5 hours';Unhealthy;BCA;Yes;10;5;Yes;1
+58072;Female;19;Vasai-Virar;Student;2;0;9,12;4;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;5;2;Yes;1
+69974;Female;34;Jaipur;Student;1;0;6;2;0;'7-8 hours';Unhealthy;'Class 12';No;6;3;No;0
+80521;Female;28;Kalyan;Student;4;0;5,12;3;0;'Less than 5 hours';Moderate;BSc;Yes;11;3;No;1
+111340;Female;28;Kolkata;Student;3;0;8,9;4;0;'Less than 5 hours';Healthy;MSc;Yes;5;3;Yes;1
+91599;Female;30;Meerut;Student;3;0;5,08;4;0;'5-6 hours';Moderate;B,Ed;No;0;2;No;0
+77010;Female;28;Thane;Student;4;0;5,55;3;0;'7-8 hours';Moderate;BCA;Yes;10;4;No;1
+6269;Female;24;Visakhapatnam;Student;1;0;7,1;5;0;'More than 8 hours';Unhealthy;M,Com;Yes;10;3;Yes;0
+117974;Female;31;Thane;Student;3;0;6,78;4;0;'More than 8 hours';Unhealthy;LLB;Yes;2;4;No;1
+110862;Female;23;Bhopal;Student;1;0;8,79;1;0;'Less than 5 hours';Moderate;MCA;Yes;4;1;No;1
+81814;Female;19;Ghaziabad;Student;3;0;9,39;4;0;'5-6 hours';Healthy;'Class 12';Yes;5;2;No;0
+130708;Female;29;Nashik;Student;2;0;8,04;4;0;'Less than 5 hours';Unhealthy;MSc;Yes;6;3;Yes;1
+1156;Female;18;Kolkata;Student;5;0;5,42;5;0;'7-8 hours';Unhealthy;'Class 12';Yes;9;2;Yes;1
+127932;Female;25;Lucknow;Student;3;0;9,96;2;0;'7-8 hours';Unhealthy;M,Tech;Yes;1;4;Yes;1
+18402;Female;33;Vasai-Virar;Student;1;0;6,37;5;0;'More than 8 hours';Healthy;BHM;Yes;12;3;Yes;1
+129632;Female;33;Kolkata;Student;5;0;8,94;1;0;'5-6 hours';Healthy;ME;Yes;9;4;Yes;1
+115621;Female;21;Indore;Student;3;0;5,76;2;0;'7-8 hours';Moderate;B,Arch;No;3;1;No;0
+2255;Female;32;Lucknow;Student;2;0;6,47;4;0;'7-8 hours';Moderate;LLB;No;11;3;Yes;0
+73078;Female;31;Kalyan;Student;5;0;7,88;5;0;'5-6 hours';Unhealthy;M,Pharm;Yes;10;4;Yes;1
+112042;Female;28;Patna;Student;4;0;5,71;3;0;'7-8 hours';Healthy;BSc;No;10;3;Yes;1
+113809;Female;21;Surat;Student;2;0;5,86;4;0;'More than 8 hours';Moderate;'Class 12';Yes;9;2;No;1
+70500;Female;25;Vadodara;Student;3;0;7,37;4;0;'Less than 5 hours';Moderate;BHM;No;9;1;No;0
+52438;Female;29;Nashik;Student;1;0;7,52;2;0;'Less than 5 hours';Healthy;MBBS;No;9;3;Yes;0
+22464;Female;20;Visakhapatnam;Student;1;0;9,5;5;0;'5-6 hours';Unhealthy;'Class 12';Yes;4;2;No;0
+109893;Female;27;Srinagar;Student;1;0;6,28;3;0;'More than 8 hours';Healthy;B,Arch;No;6;1;No;0
+46316;Female;20;Varanasi;Student;3;0;5,12;5;0;'5-6 hours';Healthy;'Class 12';Yes;12;5;Yes;1
+93426;Female;31;Pune;Student;3;0;9,94;4;0;'More than 8 hours';Moderate;MD;Yes;3;3;No;1
+98842;Female;18;Srinagar;Student;5;0;9,43;4;0;'More than 8 hours';Moderate;'Class 12';Yes;11;1;Yes;0
+23179;Female;18;Ludhiana;Student;5;0;6,37;4;0;'5-6 hours';Healthy;'Class 12';Yes;7;3;Yes;1
+84683;Female;18;Kolkata;Student;4;0;5,42;5;0;'Less than 5 hours';Moderate;'Class 12';Yes;12;4;Yes;1
+71409;Female;30;Ludhiana;Student;1;0;5,59;3;0;'5-6 hours';Healthy;BE;Yes;12;3;No;1
+94773;Female;20;Ghaziabad;Student;2;0;8,04;2;0;'5-6 hours';Moderate;'Class 12';Yes;2;2;No;1
+57594;Female;33;Bangalore;Student;4;0;9,97;3;0;'Less than 5 hours';Unhealthy;BHM;Yes;2;5;No;1
+137367;Female;32;Patna;Student;4;0;5,08;2;0;'7-8 hours';Moderate;B,Tech;No;5;4;Yes;1
+32025;Female;20;Ludhiana;Student;5;0;5,85;5;0;'7-8 hours';Healthy;'Class 12';Yes;11;5;No;1
+94156;Female;29;Surat;Student;2;0;9,44;5;0;'Less than 5 hours';Unhealthy;B,Arch;Yes;11;2;No;1
+6393;Female;28;Kalyan;Student;4;0;5,86;2;0;'Less than 5 hours';Unhealthy;B,Com;Yes;4;5;No;1
+91385;Female;26;Visakhapatnam;Student;2;0;5,91;1;0;'7-8 hours';Unhealthy;B,Arch;No;8;5;No;0
+116662;Female;24;Visakhapatnam;Student;3;0;8,37;1;0;'7-8 hours';Healthy;MBBS;Yes;11;5;Yes;1
+41018;Female;24;Vasai-Virar;Student;5;0;7,94;4;0;'Less than 5 hours';Moderate;BCA;Yes;10;2;No;1
+92644;Female;23;Thane;Student;2;0;5,85;1;0;'7-8 hours';Healthy;MSc;Yes;11;5;Yes;1
+2908;Female;32;Meerut;Student;2;0;8,52;1;0;'More than 8 hours';Unhealthy;B,Tech;No;8;3;No;0
+87533;Female;24;Agra;Student;2;0;8,08;5;0;'5-6 hours';Healthy;BA;No;0;2;No;0
+129695;Female;29;Pune;Student;2;0;6,33;1;0;'5-6 hours';Moderate;B,Arch;Yes;5;3;No;0
+40569;Female;22;Visakhapatnam;Student;1;0;8,98;2;0;'5-6 hours';Moderate;MBA;Yes;5;2;Yes;0
+91810;Female;33;Kalyan;Student;4;0;5,76;5;0;'5-6 hours';Moderate;M,Tech;Yes;4;5;Yes;1
+44005;Female;28;Chennai;Student;5;0;9,79;2;0;'More than 8 hours';Unhealthy;BHM;No;6;5;No;0
+110567;Female;22;Ahmedabad;Student;2;0;7,04;3;0;'7-8 hours';Unhealthy;BCA;Yes;8;4;No;1
+109981;Female;20;Bhopal;Student;4;0;8,91;3;0;'5-6 hours';Unhealthy;'Class 12';Yes;12;5;No;1
+47774;Female;28;Vasai-Virar;Student;2;0;6,23;3;0;'5-6 hours';Healthy;MBA;Yes;7;3;No;1
+5125;Female;33;Srinagar;Student;2;0;7,8;2;0;'Less than 5 hours';Moderate;BE;Yes;12;5;No;0
+131152;Female;18;Ghaziabad;Student;5;0;8,59;3;0;'5-6 hours';Healthy;'Class 12';Yes;11;4;No;1
+119823;Female;21;Ludhiana;Student;4;0;5,08;2;0;'7-8 hours';Healthy;B,Arch;Yes;12;5;No;1
+98122;Female;18;Surat;Student;3;0;7,3;3;0;'More than 8 hours';Unhealthy;'Class 12';Yes;3;5;Yes;1
+31118;Female;21;Bangalore;Student;1;0;7,8;2;0;'7-8 hours';Healthy;MCA;No;11;1;Yes;0
+120612;Female;25;Hyderabad;Student;3;0;5,75;5;0;'More than 8 hours';Moderate;MSc;Yes;10;1;No;1
+129733;Female;28;Surat;Student;3;0;5,08;2;0;'7-8 hours';Unhealthy;BHM;Yes;12;3;Yes;0
+59816;Male;22;Indore;Student;5;0;7,88;5;0;'5-6 hours';Healthy;BBA;Yes;10;3;Yes;1
+19743;Male;26;Lucknow;Student;1;0;7,49;4;0;'Less than 5 hours';Healthy;B,Com;Yes;7;1;Yes;0
+133587;Male;21;Chennai;Student;3;0;8,79;1;0;'Less than 5 hours';Unhealthy;B,Com;Yes;7;4;Yes;1
+28718;Male;34;Jaipur;Student;1;0;9,54;1;0;'7-8 hours';Moderate;ME;Yes;6;3;No;0
+13533;Male;25;Srinagar;Student;2;0;5,64;2;0;'7-8 hours';Moderate;MD;Yes;5;2;No;0
+53223;Male;29;Vasai-Virar;Student;4;0;8,17;2;0;'5-6 hours';Unhealthy;LLM;No;10;4;No;1
+100584;Male;26;Ludhiana;Student;3;0;7,75;2;0;'5-6 hours';Unhealthy;MSc;No;6;3;No;0
+7793;Male;26;Vasai-Virar;Student;2;0;9,46;2;0;'7-8 hours';Healthy;PhD;Yes;5;1;No;0
+31265;Male;34;Bangalore;Student;3;0;9,05;3;0;'7-8 hours';Unhealthy;B,Tech;No;0;2;No;0
+420;Male;32;Patna;Student;3;0;9,11;5;0;'7-8 hours';Moderate;MBBS;Yes;5;5;Yes;1
+139643;Male;20;Meerut;Student;4;0;6,99;3;0;'Less than 5 hours';Healthy;'Class 12';Yes;7;4;No;1
+96229;Male;30;Lucknow;Student;3;0;6,78;1;0;'5-6 hours';Unhealthy;B,Com;Yes;12;4;No;1
+80394;Male;27;Ahmedabad;Student;1;0;9,72;3;0;'7-8 hours';Healthy;M,Pharm;No;9;5;No;0
+39717;Male;21;Bhopal;Student;5;0;9,41;4;0;'5-6 hours';Moderate;BHM;Yes;11;3;No;0
+9832;Male;29;Thane;Student;5;0;5,76;1;0;'Less than 5 hours';Unhealthy;B,Pharm;Yes;10;4;Yes;1
+57945;Male;32;Ludhiana;Student;3;0;9,44;1;0;'7-8 hours';Unhealthy;MSc;Yes;3;4;Yes;1
+18054;Male;19;Visakhapatnam;Student;2;0;7,92;4;0;'5-6 hours';Moderate;'Class 12';Yes;3;4;Yes;1
+122295;Male;34;Kolkata;Student;1;0;9,6;1;0;'7-8 hours';Moderate;M,Pharm;No;7;2;No;0
+86837;Male;26;Rajkot;Student;3;0;6,37;4;0;'More than 8 hours';Unhealthy;MA;No;6;2;Yes;0
+32373;Male;20;Jaipur;Student;3;0;5,56;4;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;9;4;No;1
+38348;Male;31;Ahmedabad;Student;3;0;8,59;1;0;'Less than 5 hours';Moderate;B,Ed;Yes;12;5;No;1
+131893;Male;18;Ludhiana;Student;4;0;8,79;5;0;'5-6 hours';Moderate;'Class 12';Yes;9;4;Yes;1
+708;Male;28;Nagpur;Student;2;0;7,94;2;0;'5-6 hours';Unhealthy;BCA;Yes;2;5;Yes;1
+135220;Male;19;Indore;Student;1;0;7,12;1;0;'More than 8 hours';Healthy;'Class 12';Yes;3;4;No;0
+23488;Male;20;Bangalore;Student;3;0;5,7;5;0;'More than 8 hours';Moderate;'Class 12';Yes;1;2;Yes;1
+101249;Male;24;Kanpur;Student;2;0;7,68;2;0;'7-8 hours';Healthy;'Class 12';Yes;11;5;No;1
+12330;Male;21;Kanpur;Student;3;0;9,91;1;0;'5-6 hours';Healthy;BCA;No;6;2;No;0
+110171;Male;32;Patna;Student;3;0;5,11;4;0;'5-6 hours';Moderate;'Class 12';No;7;3;No;0
+122549;Male;19;Agra;Student;5;0;7,72;2;0;'5-6 hours';Moderate;'Class 12';No;1;1;No;1
+20724;Male;29;Kanpur;Student;5;0;9,96;5;0;'Less than 5 hours';Healthy;'Class 12';Yes;6;1;No;1
+31962;Male;34;Kolkata;Student;2;0;8,81;4;0;'Less than 5 hours';Moderate;M,Tech;No;4;1;No;0
+101386;Male;28;Hyderabad;Student;5;0;6;5;0;'More than 8 hours';Healthy;BBA;No;2;4;No;0
+33782;Male;33;Kanpur;Student;4;0;7,47;2;0;'More than 8 hours';Healthy;M,Tech;Yes;10;4;Yes;1
+6013;Male;33;Chennai;Student;5;0;8,54;1;0;'5-6 hours';Healthy;M,Tech;No;11;1;Yes;0
+21632;Male;31;Patna;Student;2;0;6,51;3;0;'More than 8 hours';Moderate;'Class 12';No;10;1;No;0
+138104;Male;28;Chennai;Student;5;0;9,96;5;0;'Less than 5 hours';Moderate;MCA;Yes;8;3;Yes;1
+23107;Male;18;Visakhapatnam;Student;1;0;6,37;4;0;'7-8 hours';Moderate;'Class 12';No;8;5;No;0
+62360;Male;33;Kanpur;Student;3;0;6,63;4;0;'7-8 hours';Healthy;MCA;No;3;1;No;0
+132009;Male;25;Kolkata;Student;5;0;8,25;3;0;'Less than 5 hours';Healthy;M,Com;No;10;3;No;1
+25266;Male;34;Meerut;Student;1;0;7,88;4;0;'5-6 hours';Moderate;BCA;Yes;10;3;No;0
+85914;Male;32;Hyderabad;Student;3;0;9,93;5;0;'More than 8 hours';Moderate;MA;No;3;1;Yes;0
+112330;Male;19;Nagpur;Student;4;0;5,85;5;0;'More than 8 hours';Moderate;'Class 12';No;7;5;No;0
+40831;Male;21;Bhopal;Student;1;0;7,22;1;0;'More than 8 hours';Moderate;MA;Yes;7;2;No;1
+8482;Male;24;Kalyan;Student;5;0;6,38;5;0;'7-8 hours';Unhealthy;M,Tech;Yes;4;5;No;1
+71944;Male;28;Rajkot;Student;5;0;8,58;5;0;'5-6 hours';Healthy;B,Arch;Yes;2;5;Yes;1
+66054;Male;19;Nagpur;Student;4;0;8,91;3;0;'5-6 hours';Moderate;'Class 12';No;7;5;No;0
+101526;Male;34;Varanasi;Student;3;0;9,54;3;0;'Less than 5 hours';Healthy;MHM;No;11;4;Yes;1
+50169;Male;23;Kanpur;Student;2;0;9,86;1;0;'More than 8 hours';Unhealthy;B,Com;Yes;11;4;Yes;1
+104915;Male;25;Jaipur;Student;3;0;6,26;5;0;'More than 8 hours';Moderate;B,Tech;No;9;3;No;0
+96179;Male;33;Delhi;Student;1;0;9,67;3;0;'7-8 hours';Moderate;M,Pharm;Yes;5;3;No;0
+110097;Male;34;Pune;Student;1;0;0;5;0;'Less than 5 hours';Unhealthy;M,Ed;Yes;10;3;Yes;0
+110785;Male;25;Hyderabad;Student;4;0;5,42;2;0;'7-8 hours';Unhealthy;PhD;Yes;6;4;Yes;1
+32047;Male;21;Thane;Student;5;0;9,78;4;0;'7-8 hours';Unhealthy;B,Com;Yes;11;5;No;1
+135921;Male;20;Chennai;Student;3;0;5,67;3;0;'7-8 hours';Moderate;'Class 12';No;12;5;No;1
+31223;Male;23;Hyderabad;Student;3;0;8,54;4;0;'More than 8 hours';Unhealthy;B,Arch;Yes;10;3;No;1
+119744;Male;21;Agra;Student;1;0;9,44;4;0;'Less than 5 hours';Healthy;MCA;No;0;4;No;0
+137501;Male;19;Bhopal;Student;3;0;9,79;1;0;'Less than 5 hours';Healthy;'Class 12';Yes;7;5;Yes;1
+67154;Male;24;Visakhapatnam;Student;1;0;9,21;4;0;'More than 8 hours';Healthy;MSc;Yes;9;1;Yes;0
+97876;Male;26;Indore;Student;2;0;8,54;4;0;'7-8 hours';Healthy;B,Pharm;No;9;3;No;1
+71807;Male;31;Pune;Student;1;0;8,63;1;0;'Less than 5 hours';Unhealthy;M,Ed;No;10;5;No;1
+125455;Male;28;Ludhiana;Student;4;0;5,75;1;0;'5-6 hours';Moderate;BE;Yes;9;3;No;0
+129100;Male;31;Vasai-Virar;Student;4;0;8,24;4;0;'7-8 hours';Healthy;MA;Yes;7;3;Yes;0
+82223;Male;23;Kolkata;Student;1;0;7,64;4;0;'Less than 5 hours';Healthy;MSc;No;0;4;No;0
+109398;Male;27;Hyderabad;Student;5;0;9,96;5;0;'More than 8 hours';Moderate;M,Ed;Yes;12;5;No;1
+16618;Male;28;Thane;Student;4;0;9,24;1;0;'Less than 5 hours';Moderate;B,Ed;No;7;1;No;0
+87063;Male;19;Ludhiana;Student;5;0;6,42;4;0;'More than 8 hours';Healthy;'Class 12';No;7;1;No;1
+30361;Male;25;Ludhiana;Student;3;0;9,74;5;0;'More than 8 hours';Moderate;M,Tech;No;3;3;Yes;1
+11057;Male;32;Pune;Student;4;0;8,58;1;0;'Less than 5 hours';Healthy;B,Pharm;Yes;9;1;No;1
+101752;Male;31;Visakhapatnam;Student;3;0;6,41;4;0;'7-8 hours';Unhealthy;M,Ed;No;12;2;Yes;0
+35470;Male;31;Kolkata;Student;2;0;8,74;5;0;'Less than 5 hours';Unhealthy;BBA;No;10;2;No;1
+9945;Male;32;Kolkata;Student;3;0;7,11;5;0;'Less than 5 hours';Moderate;BBA;No;10;1;Yes;0
+109054;Male;24;Nashik;Student;3;0;9,19;4;0;'5-6 hours';Moderate;M,Tech;Yes;7;2;Yes;1
+62160;Male;34;Jaipur;Student;3;0;9,01;4;0;'7-8 hours';Healthy;BE;Yes;3;3;No;0
+56867;Male;20;Bangalore;Student;3;0;7,82;3;0;'Less than 5 hours';Healthy;'Class 12';Yes;12;2;Yes;1
+39731;Male;31;Kanpur;Student;1;0;7,5;2;0;'Less than 5 hours';Unhealthy;BCA;No;3;2;No;0
+41712;Male;24;Kalyan;Student;2;0;9,89;4;0;'More than 8 hours';Moderate;B,Tech;No;6;5;No;0
+9550;Male;33;Agra;Student;5;0;9,33;3;0;'7-8 hours';Unhealthy;BSc;Yes;8;4;Yes;1
+137628;Male;29;Chennai;Student;3;0;7,27;1;0;'More than 8 hours';Unhealthy;B,Arch;Yes;11;3;No;1
+83454;Male;18;Ludhiana;Student;2;0;8,95;3;0;'Less than 5 hours';Moderate;'Class 12';No;7;2;No;0
+28014;Male;27;Thane;Student;4;0;5,84;3;0;'Less than 5 hours';Unhealthy;LLB;Yes;10;2;Yes;1
+67402;Male;32;Bangalore;Student;5;0;9,96;1;0;'More than 8 hours';Moderate;MCA;Yes;9;4;Yes;1
+44317;Male;24;Agra;Student;3;0;8,91;4;0;'7-8 hours';Healthy;B,Ed;Yes;8;4;Yes;1
+30164;Male;21;Agra;Student;1;0;9,79;5;0;'7-8 hours';Moderate;B,Arch;No;0;1;No;0
+98227;Male;23;Ahmedabad;Student;3;0;5,12;2;0;'Less than 5 hours';Unhealthy;LLM;Yes;10;4;Yes;1
+140090;Male;26;Visakhapatnam;Student;2;0;9,56;4;0;'Less than 5 hours';Unhealthy;B,Com;No;10;5;No;1
+132979;Male;26;Agra;Student;1;0;7,14;1;0;'5-6 hours';Healthy;BCA;No;1;1;Yes;0
+23708;Male;31;Ghaziabad;Student;1;0;9,79;4;0;'Less than 5 hours';Unhealthy;MBBS;No;9;5;No;1
+83866;Male;26;Meerut;Student;1;0;9,34;2;0;'Less than 5 hours';Moderate;LLM;No;11;2;Yes;0
+90651;Male;24;Mumbai;Student;1;0;7,1;3;0;'5-6 hours';Moderate;LLB;No;9;5;Yes;0
+116645;Male;28;Hyderabad;Student;4;0;9,96;2;0;'More than 8 hours';Healthy;MD;No;2;2;No;1
+123970;Male;31;Kolkata;Student;5;0;5,6;1;0;'Less than 5 hours';Unhealthy;MBBS;Yes;2;1;Yes;1
+58460;Male;26;Surat;Student;4;0;8,25;2;0;'7-8 hours';Healthy;BA;Yes;11;3;Yes;1
+116309;Male;23;Thane;Student;5;0;6,88;2;0;'5-6 hours';Unhealthy;MSc;Yes;10;3;No;1
+79867;Male;28;Nagpur;Student;1;0;8,71;2;0;'5-6 hours';Unhealthy;BCA;No;10;1;Yes;0
+398;Male;19;Mumbai;Student;2;0;7,09;4;0;'7-8 hours';Healthy;'Class 12';No;11;1;Yes;0
+95173;Male;24;Hyderabad;Student;4;0;5,85;5;0;'More than 8 hours';Healthy;'Class 12';Yes;11;4;Yes;1
+31895;Male;30;Agra;Student;3;0;5,85;4;0;'More than 8 hours';Healthy;M,Ed;No;7;4;Yes;0
+47902;Male;31;Patna;Student;3;0;9,96;1;0;'5-6 hours';Moderate;'Class 12';Yes;10;5;No;1
+56298;Male;23;Vasai-Virar;Student;1;0;9,71;4;0;'More than 8 hours';Moderate;BHM;Yes;6;1;No;1
+86652;Male;34;Rajkot;Student;3;0;9,44;4;0;'Less than 5 hours';Moderate;BCA;No;10;1;No;0
+37434;Male;31;Ghaziabad;Student;5;0;5,68;1;0;'Less than 5 hours';Moderate;BCA;Yes;12;1;No;1
+110327;Male;24;Vadodara;Student;5;0;8,04;2;0;'7-8 hours';Moderate;MCA;Yes;10;4;Yes;1
+18637;Male;27;Ghaziabad;Student;4;0;8,91;5;0;'5-6 hours';Unhealthy;PhD;No;7;4;No;1
+47565;Male;24;Jaipur;Student;3;0;9,42;4;0;'Less than 5 hours';Moderate;PhD;No;1;4;No;1
+28986;Male;26;Patna;Student;1;0;9,88;1;0;'More than 8 hours';Moderate;B,Arch;No;9;2;No;0
+5565;Male;34;Kolkata;Student;1;0;7,5;2;0;'5-6 hours';Moderate;M,Pharm;Yes;4;2;Yes;0
+92738;Male;19;Agra;Student;4;0;8,21;1;0;'5-6 hours';Unhealthy;'Class 12';Yes;11;2;No;1
+53324;Male;28;Jaipur;Student;1;0;5,56;3;0;'Less than 5 hours';Unhealthy;BBA;Yes;10;5;Yes;1
+137961;Male;29;Srinagar;Student;5;0;8,95;3;0;'More than 8 hours';Healthy;M,Pharm;Yes;10;3;No;1
+83805;Male;26;Rajkot;Student;4;0;5,76;3;0;'7-8 hours';Unhealthy;BCA;Yes;9;4;No;1
+122687;Male;19;Ahmedabad;Student;5;0;7,21;4;0;'5-6 hours';Moderate;'Class 12';No;9;5;Yes;1
+127651;Male;34;Hyderabad;Student;2;0;8,58;4;0;'Less than 5 hours';Moderate;M,Tech;No;11;1;No;0
+104608;Male;21;Kalyan;Student;1;0;7,77;5;0;'Less than 5 hours';Moderate;B,Tech;No;1;2;No;0
+3442;Male;21;Kalyan;Student;4;0;5,41;5;0;'7-8 hours';Moderate;'Class 12';Yes;7;5;No;0
+26678;Male;25;Lucknow;Student;3;0;8,77;2;0;'7-8 hours';Moderate;BA;Yes;9;3;No;1
+97847;Male;32;Vadodara;Student;3;0;9,5;1;0;'Less than 5 hours';Unhealthy;BCA;Yes;8;5;No;1
+124282;Male;29;Meerut;Student;4;0;5,42;4;0;'Less than 5 hours';Moderate;M,Pharm;Yes;9;5;No;1
+128182;Male;27;Vasai-Virar;Student;5;0;8,52;2;0;'5-6 hours';Unhealthy;MBA;Yes;12;1;Yes;1
+117851;Male;18;Ludhiana;Student;5;0;5,57;4;0;'5-6 hours';Healthy;'Class 12';Yes;6;5;No;1
+92032;Male;26;Patna;Student;4;0;6,21;1;0;'More than 8 hours';Unhealthy;M,Pharm;Yes;11;5;Yes;1
+42948;Male;26;Rajkot;Student;4;0;8,88;4;0;'More than 8 hours';Moderate;MHM;Yes;0;3;Yes;1
+137955;Male;29;Surat;Student;2;0;7,48;2;0;'7-8 hours';Healthy;'Class 12';Yes;5;2;No;1
+92474;Male;33;Faridabad;Student;2;0;8,14;1;0;'7-8 hours';Moderate;B,Arch;Yes;4;4;Yes;1
+7846;Male;24;Varanasi;Student;3;0;5,41;5;0;'5-6 hours';Healthy;MCA;Yes;12;5;Yes;1
+106668;Male;32;Nashik;Student;1;0;9,19;3;0;'7-8 hours';Moderate;LLB;Yes;12;3;Yes;0
+122445;Male;25;Lucknow;Student;1;0;7,45;4;0;'More than 8 hours';Unhealthy;BSc;No;9;2;No;0
+27601;Male;24;Ahmedabad;Student;3;0;5,79;3;0;'5-6 hours';Healthy;M,Tech;Yes;10;2;No;0
+32201;Male;28;Bhopal;Student;5;0;6,16;3;0;'Less than 5 hours';Unhealthy;MSc;Yes;4;5;No;1
+47825;Male;30;Nashik;Student;3;0;5,76;5;0;'5-6 hours';Unhealthy;PhD;Yes;11;3;No;0
+138578;Male;34;Surat;Student;4;0;7,5;1;0;'Less than 5 hours';Moderate;MD;No;3;4;No;0
+30349;Male;18;Rajkot;Student;2;0;6,04;5;0;'Less than 5 hours';Unhealthy;'Class 12';No;2;4;Yes;0
+60478;Male;23;Thane;Student;3;0;9,47;2;0;'Less than 5 hours';Moderate;B,Com;Yes;9;1;Yes;1
+50160;Male;31;Srinagar;Student;3;0;7,07;3;0;'7-8 hours';Moderate;PhD;No;5;3;No;0
+68885;Male;23;Bangalore;Student;3;0;7,07;5;0;'Less than 5 hours';Healthy;B,Tech;Yes;6;5;No;1
+135568;Male;25;Nagpur;Student;3;0;6,1;4;0;'7-8 hours';Moderate;B,Pharm;No;10;3;Yes;0
+93862;Male;24;Faridabad;Student;4;0;9,74;2;0;'5-6 hours';Moderate;'Class 12';Yes;10;2;No;1
+12950;Male;33;Rajkot;Student;3;0;5,64;1;0;'5-6 hours';Unhealthy;M,Ed;Yes;9;5;Yes;1
+112899;Male;30;Patna;Student;1;0;8,39;3;0;'5-6 hours';Moderate;BCA;Yes;10;5;Yes;0
+37793;Male;26;Nagpur;Student;2;0;6,37;1;0;'Less than 5 hours';Moderate;B,Ed;No;9;2;No;0
+60464;Male;24;Lucknow;Student;3;0;6,78;5;0;'5-6 hours';Unhealthy;'Class 12';Yes;10;5;Yes;1
+77376;Male;19;Bhopal;Student;3;0;9,5;4;0;'5-6 hours';Unhealthy;'Class 12';No;6;3;No;0
+3377;Male;28;Kalyan;Student;2;0;5,1;1;0;'Less than 5 hours';Healthy;BCA;Yes;9;3;No;0
+34671;Male;23;Kalyan;Student;3;0;9,93;1;0;'Less than 5 hours';Moderate;B,Com;Yes;10;4;Yes;1
+51691;Male;25;Lucknow;Student;5;0;7,26;1;0;'Less than 5 hours';Healthy;B,Com;Yes;12;4;No;1
+56246;Male;20;Vadodara;Student;4;0;9,91;3;0;'7-8 hours';Healthy;'Class 12';Yes;6;1;No;1
+23715;Male;24;Visakhapatnam;Student;4;0;5,88;2;0;'5-6 hours';Unhealthy;BHM;Yes;4;1;Yes;1
+83259;Male;19;Ludhiana;Student;2;0;5,16;4;0;'5-6 hours';Healthy;'Class 12';Yes;8;4;Yes;1
+44087;Male;29;Harsha;Student;3;0;8,62;1;0;'5-6 hours';Unhealthy;LLB;Yes;12;1;No;1
+69036;Male;20;Kalyan;Student;3;0;8,85;4;0;'Less than 5 hours';Unhealthy;'Class 12';No;2;3;No;1
+76291;Male;20;Pune;Student;5;0;5,41;2;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;3;4;No;1
+68446;Male;34;Varanasi;Student;2;0;9,71;1;0;'7-8 hours';Unhealthy;MA;Yes;6;1;No;0
+117176;Male;22;Ahmedabad;Student;1;0;9,96;4;0;'5-6 hours';Unhealthy;B,Ed;No;4;3;No;0
+102824;Male;22;Lucknow;Student;4;0;8,91;3;0;'7-8 hours';Healthy;B,Com;Yes;5;2;Yes;1
+19493;Male;24;Lucknow;Student;1;0;6,46;4;0;'More than 8 hours';Moderate;MBBS;Yes;12;5;Yes;0
+36993;Male;31;'Less than 5 Kalyan';Student;1;0;7,21;1;0;'5-6 hours';Healthy;M,Ed;No;2;1;No;0
+108735;Male;23;Chennai;Student;5;0;9,21;5;0;'Less than 5 hours';Moderate;MSc;Yes;10;2;Yes;1
+116152;Male;27;Meerut;Student;3;0;7,1;4;0;'5-6 hours';Healthy;B,Pharm;No;9;1;No;0
+118386;Male;23;Vadodara;Student;4;0;6,78;3;0;'More than 8 hours';Healthy;B,Com;Yes;3;4;Yes;1
+98903;Male;18;Vasai-Virar;Student;4;0;5,59;4;0;'More than 8 hours';Unhealthy;'Class 12';Yes;10;5;Yes;1
+9672;Male;18;Nashik;Student;3;0;8,74;1;0;'7-8 hours';Moderate;M,Com;Yes;11;2;No;1
+18574;Male;24;Agra;Student;3;0;8,08;5;0;'5-6 hours';Moderate;B,Arch;Yes;0;1;Yes;0
+28147;Male;18;Ludhiana;Student;4;0;9,72;3;0;'5-6 hours';Healthy;'Class 12';Yes;4;5;No;1
+91025;Male;33;Ahmedabad;Student;4;0;9,72;5;0;'More than 8 hours';Healthy;M,Tech;No;2;3;Yes;0
+32883;Male;24;Agra;Student;3;0;9,24;5;0;'5-6 hours';Moderate;BA;Yes;4;1;Yes;1
+106418;Male;23;Mumbai;Student;1;0;8,74;1;0;'More than 8 hours';Moderate;B,Arch;No;7;5;No;0
+114011;Male;20;Delhi;Student;3;0;8,78;4;0;'Less than 5 hours';Healthy;'Class 12';No;3;1;Yes;0
+106344;Male;21;Hyderabad;Student;1;0;6,16;2;0;'7-8 hours';Healthy;MCA;Yes;10;5;No;1
+2060;Male;31;Delhi;Student;1;0;7,08;1;0;'More than 8 hours';Healthy;B,Com;No;12;3;Yes;0
+44393;Male;22;Thane;Student;2;0;6,29;4;0;'Less than 5 hours';Moderate;B,Tech;Yes;10;1;Yes;1
+45547;Male;32;Srinagar;Student;5;0;5,85;3;0;'7-8 hours';Unhealthy;BE;Yes;11;5;Yes;1
+36029;Male;33;Kolkata;Student;2;0;9,71;4;0;'7-8 hours';Moderate;MSc;No;10;1;No;0
+92770;Male;24;Rajkot;Student;1;0;5,37;3;0;'7-8 hours';Unhealthy;BCA;Yes;8;4;No;1
+2063;Male;24;Bhopal;Student;1;0;9,26;4;0;'7-8 hours';Moderate;MA;No;6;1;No;0
+44134;Male;29;Nagpur;Student;3;0;6,1;2;0;'7-8 hours';Moderate;BCA;Yes;10;2;Yes;1
+58543;Male;24;Kalyan;Student;3;0;6,37;3;0;'More than 8 hours';Healthy;MBBS;Yes;9;1;Yes;1
+128077;Male;24;Thane;Student;3;0;8,95;4;0;'5-6 hours';Unhealthy;B,Pharm;Yes;8;2;Yes;0
+124839;Male;20;Delhi;Student;4;0;8,91;4;0;'7-8 hours';Unhealthy;'Class 12';No;12;4;No;0
+52881;Male;25;Thane;Student;3;0;5,74;2;0;'More than 8 hours';Healthy;B,Ed;Yes;6;4;No;1
+1252;Male;33;Bhopal;Student;2;0;8,62;4;0;'More than 8 hours';Moderate;BCA;Yes;0;2;No;0
+15202;Male;22;Kolkata;Student;5;0;7,25;1;0;'7-8 hours';Unhealthy;B,Com;Yes;6;5;No;1
+91593;Male;18;Mumbai;Student;5;0;9,9;4;0;'Less than 5 hours';Moderate;'Class 12';Yes;2;4;No;1
+119550;Male;18;Thane;Student;4;0;6,1;1;0;'More than 8 hours';Unhealthy;'Class 12';Yes;10;3;Yes;1
+16693;Male;33;Surat;Student;4;0;5,16;2;0;'7-8 hours';Unhealthy;M,Pharm;Yes;8;1;Yes;1
+59433;Male;31;Srinagar;Student;3;0;9,36;4;0;'7-8 hours';Unhealthy;M,Pharm;No;6;4;No;0
+113314;Male;21;Srinagar;Student;2;0;5,76;4;0;'5-6 hours';Unhealthy;B,Com;No;10;3;Yes;0
+112750;Male;21;Srinagar;Student;3;0;9,96;1;0;'Less than 5 hours';Healthy;MSc;No;2;3;Yes;0
+87216;Male;33;Rajkot;Student;3;0;9,79;3;0;'More than 8 hours';Healthy;M,Ed;No;12;1;No;0
+65764;Male;33;Patna;Student;5;0;8,95;1;0;'More than 8 hours';Healthy;MBA;No;5;3;Yes;0
+83769;Male;32;Ghaziabad;Student;4;0;7,1;1;0;'Less than 5 hours';Unhealthy;BCA;No;1;1;No;1
+21876;Male;34;Hyderabad;Student;5;0;7,91;3;0;'More than 8 hours';Moderate;B,Arch;Yes;1;3;No;0
+67676;Male;19;Bhopal;Student;5;0;5,99;1;0;'Less than 5 hours';Moderate;'Class 12';Yes;12;5;Yes;1
+85741;Male;28;Hyderabad;Student;3;0;8,04;4;0;'7-8 hours';Unhealthy;BCA;Yes;11;4;Yes;1
+103264;Male;23;Pune;Student;1;0;5,71;1;0;'7-8 hours';Healthy;MCA;Yes;3;1;No;0
+38578;Male;18;Ludhiana;Student;4;0;5,74;5;0;'5-6 hours';Unhealthy;'Class 12';No;12;1;Yes;0
+90255;Male;23;Vadodara;Student;1;0;9,96;5;0;'More than 8 hours';Unhealthy;M,Tech;Yes;2;1;No;0
+124592;Male;29;Bhopal;Student;4;0;5,11;1;0;'Less than 5 hours';Moderate;B,Tech;No;0;4;No;1
+71641;Male;32;Hyderabad;Student;3;0;5,44;3;0;'7-8 hours';Unhealthy;MD;Yes;7;3;No;1
+105383;Male;32;Visakhapatnam;Student;3;0;5,32;2;0;'More than 8 hours';Moderate;BCA;No;12;3;No;1
+65914;Male;29;Agra;Student;3;0;6;2;0;'More than 8 hours';Healthy;B,Ed;No;11;4;No;0
+89089;Male;30;Kanpur;Student;2;0;9,56;3;0;'7-8 hours';Healthy;LLB;Yes;11;5;No;1
+26209;Male;21;Nagpur;Student;3;0;8,95;2;0;'7-8 hours';Unhealthy;MBA;Yes;8;5;No;1
+64340;Male;24;Surat;Student;2;0;7,13;3;0;'More than 8 hours';Moderate;B,Pharm;No;10;4;Yes;1
+10471;Male;33;Varanasi;Student;3;0;7,04;4;0;'7-8 hours';Moderate;MCA;No;6;1;Yes;0
+65549;Male;27;Lucknow;Student;3;0;8,58;1;0;'Less than 5 hours';Moderate;MBA;Yes;10;2;Yes;1
+10250;Male;32;Vasai-Virar;Student;3;0;6,51;2;0;'5-6 hours';Unhealthy;BSc;No;9;4;Yes;0
+75513;Male;21;Jaipur;Student;1;0;8,04;2;0;'5-6 hours';Healthy;BSc;No;10;4;Yes;0
+109987;Male;34;Rajkot;Student;5;0;8,91;2;0;'Less than 5 hours';Moderate;'Class 12';No;12;5;Yes;1
+104410;Male;29;Ahmedabad;Student;2;0;9,56;3;0;'More than 8 hours';Unhealthy;B,Tech;No;7;5;Yes;1
+26413;Male;23;Nagpur;Student;3;0;9,05;5;0;'5-6 hours';Unhealthy;MSc;Yes;11;4;No;1
+83074;Male;29;Pune;Student;4;0;7,13;4;0;'7-8 hours';Healthy;BCA;Yes;9;4;Yes;1
+53677;Male;33;Patna;Student;4;0;8,62;3;0;'More than 8 hours';Unhealthy;LLM;Yes;8;3;No;0
+12888;Male;34;Agra;Student;2;0;6,51;4;0;'More than 8 hours';Unhealthy;BHM;Yes;2;1;No;0
+85392;Male;25;Lucknow;Student;4;0;5,37;5;0;'More than 8 hours';Unhealthy;B,Ed;No;2;5;Yes;1
+38922;Male;20;Thane;Student;1;0;7,47;1;0;'7-8 hours';Unhealthy;'Class 12';No;8;2;Yes;1
+64418;Male;31;Jaipur;Student;2;0;7,45;5;0;'7-8 hours';Unhealthy;PhD;Yes;5;3;Yes;0
+109412;Male;30;Meerut;Student;3;0;5,44;5;0;'Less than 5 hours';Moderate;B,Com;No;6;1;Yes;0
+76852;Male;23;Ghaziabad;Student;5;0;6,03;1;0;'7-8 hours';Healthy;B,Tech;Yes;12;3;Yes;0
+47265;Male;30;Kalyan;Student;3;0;7,09;3;0;'5-6 hours';Moderate;MBA;Yes;9;2;No;0
+35220;Male;19;Patna;Student;1;0;9,39;2;0;'7-8 hours';Moderate;'Class 12';No;11;2;Yes;0
+77063;Male;34;Jaipur;Student;3;0;8,04;2;0;'7-8 hours';Moderate;LLB;No;10;4;No;0
+75061;Male;30;Mumbai;Student;1;0;9,39;3;0;'7-8 hours';Unhealthy;BBA;No;10;1;Yes;0
+80588;Male;22;Surat;Student;5;0;6,74;2;0;'Less than 5 hours';Healthy;B,Com;Yes;10;2;Yes;1
+110449;Male;30;Nagpur;Student;3;0;8,14;5;0;'7-8 hours';Healthy;M,Ed;Yes;3;1;Yes;0
+48420;Male;24;Faridabad;Student;2;0;9,6;5;0;'7-8 hours';Moderate;'Class 12';Yes;3;4;Yes;0
+129701;Male;28;Kolkata;Student;1;0;5,46;2;0;'5-6 hours';Moderate;B,Pharm;No;6;2;Yes;0
+23036;Male;20;Ahmedabad;Student;4;0;8,95;3;0;'5-6 hours';Healthy;'Class 12';Yes;4;2;Yes;0
+121343;Male;27;Agra;Student;5;0;6,63;4;0;'5-6 hours';Unhealthy;B,Arch;Yes;3;5;Yes;1
+120619;Male;33;Ahmedabad;Student;4;0;7,85;4;0;'Less than 5 hours';Unhealthy;M,Ed;No;2;1;No;0
+74790;Male;23;Delhi;Student;3;0;9,89;5;0;'More than 8 hours';Healthy;B,Tech;Yes;9;5;No;1
+19581;Male;26;Ahmedabad;Student;4;0;8,78;3;0;'Less than 5 hours';Healthy;'Class 12';Yes;5;4;No;1
+16124;Male;24;Vasai-Virar;Student;4;0;6,51;1;0;'More than 8 hours';Moderate;BSc;No;12;3;No;0
+78200;Male;33;Meerut;Student;5;0;9,54;1;0;'Less than 5 hours';Unhealthy;MA;Yes;10;5;No;1
+123870;Male;24;Chennai;Student;5;0;9,91;1;0;'Less than 5 hours';Moderate;M,Pharm;Yes;0;2;Yes;1
+72035;Male;31;Patna;Student;2;0;8,38;4;0;'More than 8 hours';Unhealthy;'Class 12';Yes;5;2;Yes;0
+21189;Male;30;Vasai-Virar;Student;3;0;6,52;1;0;'7-8 hours';Unhealthy;B,Arch;No;10;2;Yes;0
+40332;Male;25;Kanpur;Student;2;0;9,05;3;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;11;4;Yes;1
+42855;Male;26;Rajkot;Student;3;0;5,7;1;0;'Less than 5 hours';Unhealthy;BE;Yes;0;5;No;1
+119929;Male;33;Patna;Student;1;0;8,79;3;0;'More than 8 hours';Healthy;LLB;Yes;10;5;No;1
+64993;Male;21;Varanasi;Student;1;0;7,88;1;0;'7-8 hours';Moderate;M,Com;No;11;3;No;0
+22604;Male;26;Chennai;Student;3;0;9,84;2;0;'7-8 hours';Moderate;MCA;Yes;3;4;No;1
+87272;Male;23;Kolkata;Student;1;0;5,75;4;0;'More than 8 hours';Unhealthy;BHM;No;0;1;No;0
+96917;Male;23;Hyderabad;Student;3;0;8,13;5;0;'5-6 hours';Moderate;M,Tech;No;2;4;No;0
+130742;Male;30;Meerut;Student;1;0;7,71;4;0;'Less than 5 hours';Moderate;MD;No;5;2;No;0
+28830;Male;34;Indore;Student;3;0;8,91;3;0;'7-8 hours';Unhealthy;BHM;No;8;3;No;0
+10350;Male;24;Hyderabad;Student;4;0;8;1;0;'5-6 hours';Unhealthy;B,Arch;Yes;7;5;Yes;1
+139176;Male;25;Visakhapatnam;Student;5;0;5,11;5;0;'7-8 hours';Healthy;MSc;No;12;2;Yes;0
+65629;Male;32;Vasai-Virar;Student;2;0;9,02;4;0;'5-6 hours';Unhealthy;B,Tech;No;12;5;Yes;1
+50938;Male;20;Indore;Student;4;0;8,91;1;0;'Less than 5 hours';Healthy;'Class 12';Yes;7;3;No;1
+88840;Male;25;Bangalore;Student;4;0;8,95;1;0;'More than 8 hours';Unhealthy;MHM;Yes;12;2;No;1
+85966;Male;20;Thane;Student;3;0;6,82;2;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;12;4;Yes;1
+65428;Male;27;Patna;Student;3;0;5,86;4;0;'5-6 hours';Unhealthy;B,Tech;Yes;10;5;Yes;1
+47888;Male;29;Nagpur;Student;2;0;9,71;5;0;'More than 8 hours';Moderate;MA;No;0;4;No;0
+5516;Male;21;Visakhapatnam;Student;4;0;7,22;2;0;'More than 8 hours';Unhealthy;MBA;No;10;1;Yes;0
+1582;Male;27;Lucknow;Student;1;0;6,78;4;0;'Less than 5 hours';Unhealthy;B,Ed;No;2;1;Yes;0
+79912;Male;18;Lucknow;Student;3;0;9,79;4;0;'Less than 5 hours';Healthy;'Class 12';Yes;12;2;No;1
+118599;Male;25;Agra;Student;2;0;8,04;4;0;'7-8 hours';Moderate;B,Arch;No;0;3;No;0
+40337;Male;31;Srinagar;Student;2;0;5,97;3;0;'Less than 5 hours';Moderate;B,Tech;No;6;1;No;0
+123874;Male;28;Hyderabad;Student;2;0;9,92;2;0;'More than 8 hours';Moderate;BCA;No;3;2;No;0
+14949;Male;24;Kanpur;Student;1;0;9,71;3;0;'5-6 hours';Unhealthy;BA;Yes;9;3;No;0
+111231;Male;28;Agra;Student;2;0;9,67;1;0;'7-8 hours';Moderate;B,Com;Yes;6;5;No;1
+67058;Male;30;Meerut;Student;2;0;9,21;3;0;'Less than 5 hours';Healthy;B,Tech;No;6;2;No;0
+79546;Male;25;Bangalore;Student;3;0;9,79;3;0;'More than 8 hours';Moderate;B,Pharm;Yes;6;3;No;1
+39519;Male;32;Ludhiana;Student;2;0;7,13;5;0;'7-8 hours';Healthy;LLB;Yes;11;4;No;0
+108683;Male;33;Kalyan;Student;1;0;6,81;5;0;'5-6 hours';Unhealthy;B,Arch;No;3;2;No;0
+41406;Male;29;Chennai;Student;1;0;9,03;3;0;'Less than 5 hours';Unhealthy;B,Com;Yes;9;2;Yes;1
+137643;Male;25;Jaipur;Student;1;0;7,09;2;0;'More than 8 hours';Moderate;MSc;No;2;1;No;0
+34955;Male;32;Ghaziabad;Student;1;0;7,83;4;0;'5-6 hours';Moderate;M,Pharm;No;7;2;No;0
+4006;Male;23;Faridabad;Student;3;0;5,66;4;0;'7-8 hours';Healthy;B,Pharm;Yes;0;3;No;1
+75023;Male;28;Patna;Student;4;0;8,14;3;0;'Less than 5 hours';Moderate;B,Ed;Yes;10;4;No;0
+43686;Male;28;Thane;Student;5;0;9,21;2;0;'Less than 5 hours';Unhealthy;PhD;Yes;8;3;Yes;1
+139556;Male;26;Varanasi;Student;2;0;6,51;5;0;'More than 8 hours';Moderate;BCA;Yes;8;3;Yes;1
+128949;Male;25;Ahmedabad;Student;1;0;9,59;1;0;'Less than 5 hours';Moderate;BSc;Yes;7;1;Yes;0
+26936;Male;24;Pune;Student;3;0;9,96;2;0;'7-8 hours';Healthy;B,Com;Yes;9;5;No;1
+79268;Male;20;Bangalore;Student;5;0;9,56;1;0;'Less than 5 hours';Moderate;'Class 12';Yes;12;4;Yes;1
+126016;Male;28;Visakhapatnam;Student;2;0;7,21;4;0;'Less than 5 hours';Moderate;M,Ed;Yes;10;4;No;0
+107521;Male;21;Pune;Student;5;0;7,72;2;0;'Less than 5 hours';Moderate;MCA;Yes;11;4;No;1
+2672;Male;27;Patna;Student;4;0;7,51;4;0;'More than 8 hours';Moderate;B,Com;Yes;6;5;No;1
+48242;Male;31;Lucknow;Student;3;0;5,27;4;0;'5-6 hours';Moderate;BCA;No;0;2;No;0
+93030;Male;18;Rajkot;Student;4;0;6,05;4;0;'More than 8 hours';Unhealthy;'Class 12';Yes;7;2;No;1
+17313;Male;34;Ahmedabad;Student;2;0;8,74;3;0;'Less than 5 hours';Unhealthy;MCA;Yes;11;5;Yes;1
+139772;Male;26;Srinagar;Student;2;0;8,35;4;0;'5-6 hours';Moderate;MHM;No;5;5;No;0
+112542;Male;23;Pune;Student;1;0;7,38;2;0;'5-6 hours';Healthy;MD;Yes;3;1;Yes;0
+24016;Male;25;Nashik;Student;3;0;9,34;2;0;'5-6 hours';Healthy;B,Ed;Yes;1;1;Yes;0
+123871;Male;23;Indore;Student;1;0;9,97;3;0;'7-8 hours';Unhealthy;B,Com;No;6;1;Yes;0
+91040;Male;24;Vasai-Virar;Student;3;0;7,09;4;0;'Less than 5 hours';Unhealthy;B,Ed;No;2;2;Yes;0
+47263;Male;19;Vasai-Virar;Student;4;0;8,78;3;0;'5-6 hours';Unhealthy;'Class 12';Yes;10;5;No;1
+49866;Male;34;Bhopal;Student;3;0;8,17;1;0;'5-6 hours';Unhealthy;MSc;Yes;8;1;No;1
+53814;Male;26;Ghaziabad;Student;2;0;8,94;1;0;'Less than 5 hours';Unhealthy;BCA;Yes;6;4;Yes;1
+125901;Male;24;Rajkot;Student;3;0;6,89;4;0;'Less than 5 hours';Moderate;BCA;Yes;7;3;Yes;1
+110157;Male;24;Jaipur;Student;1;0;9,93;5;0;'5-6 hours';Healthy;B,Pharm;Yes;7;3;Yes;0
+122885;Male;32;Visakhapatnam;Student;3;0;8,04;4;0;'Less than 5 hours';Moderate;B,Tech;Yes;4;5;Yes;1
+134257;Male;28;Faridabad;Student;5;0;6,83;5;0;'7-8 hours';Unhealthy;MD;Yes;11;1;No;1
+139276;Male;21;Bhopal;Student;1;0;7,94;2;0;'More than 8 hours';Unhealthy;MSc;Yes;5;3;Yes;0
+20018;Male;19;Rajkot;Student;5;0;5,64;5;0;'5-6 hours';Unhealthy;'Class 12';No;1;3;No;1
+79456;Male;21;Bhopal;Student;1;0;7,61;2;0;'7-8 hours';Moderate;B,Tech;Yes;11;1;Yes;1
+35833;Male;27;Jaipur;Student;1;0;8,17;1;0;'5-6 hours';Healthy;PhD;Yes;5;1;Yes;1
+9238;Male;24;Bhopal;Student;5;0;7,22;2;0;'More than 8 hours';Unhealthy;LLB;Yes;9;5;Yes;1
+34293;Male;23;Pune;Student;3;0;9,54;1;0;'Less than 5 hours';Moderate;MBA;Yes;9;5;Yes;1
+51357;Male;20;Meerut;Student;3;0;9,36;2;0;'7-8 hours';Unhealthy;'Class 12';No;9;3;No;1
+60952;Male;34;Pune;Student;1;0;6,83;1;0;'Less than 5 hours';Healthy;B,Com;No;2;2;Yes;0
+140018;Male;33;Meerut;Student;4;0;5,88;5;0;'More than 8 hours';Moderate;M,Tech;No;8;3;No;0
+30408;Male;30;Visakhapatnam;Student;5;0;8,58;5;0;'Less than 5 hours';Unhealthy;B,Com;Yes;6;5;Yes;1
+32908;Male;28;Rajkot;Student;4;0;6,99;2;0;'Less than 5 hours';Unhealthy;B,Com;Yes;11;5;No;1
+107413;Male;30;Ludhiana;Student;5;0;7,04;2;0;'Less than 5 hours';Unhealthy;ME;No;10;5;Yes;1
+125925;Male;25;Vadodara;Student;3;0;6,37;2;0;'7-8 hours';Moderate;B,Arch;No;9;1;Yes;0
+110495;Male;29;Visakhapatnam;Student;3;0;7,48;1;0;'More than 8 hours';Moderate;MCA;No;12;5;Yes;1
+138815;Male;20;Hyderabad;Student;2;0;7,25;5;0;'5-6 hours';Healthy;'Class 12';Yes;6;1;Yes;0
+21808;Male;21;Thane;Student;1;0;7,77;5;0;'Less than 5 hours';Moderate;BA;No;2;1;No;0
+31372;Male;27;Kanpur;Student;5;0;7,77;3;0;'5-6 hours';Healthy;B,Com;Yes;6;4;No;1
+106745;Male;27;Nashik;Student;1;0;7,48;2;0;'More than 8 hours';Moderate;LLB;No;0;1;Yes;0
+46426;Male;18;Delhi;Student;4;0;8,74;4;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;6;5;Yes;1
+126803;Male;21;Kalyan;Student;1;0;9,44;3;0;'More than 8 hours';Moderate;B,Arch;Yes;10;1;No;0
+132736;Male;30;Chennai;Student;4;0;6,73;1;0;'Less than 5 hours';Moderate;M,Com;Yes;7;3;Yes;1
+10658;Male;26;Faridabad;Student;3;0;8,95;5;0;'7-8 hours';Moderate;'Class 12';Yes;2;1;No;1
+123370;Male;33;Bhopal;Student;5;0;5,11;5;0;'More than 8 hours';Healthy;PhD;Yes;12;5;Yes;1
+77562;Male;20;Thane;Student;3;0;6,25;3;0;'7-8 hours';Healthy;'Class 12';No;0;5;No;0
+12612;Male;23;Mumbai;Student;4;0;7,22;2;0;'Less than 5 hours';Unhealthy;MD;No;10;5;No;1
+139707;Male;25;Pune;Student;3;0;5,74;1;0;'Less than 5 hours';Moderate;BA;No;12;2;No;1
+106986;Male;25;Chennai;Student;2;0;7,21;5;0;'Less than 5 hours';Healthy;M,Pharm;Yes;11;5;No;0
+29793;Male;24;Agra;Student;1;0;9,02;1;0;'5-6 hours';Unhealthy;BHM;No;0;1;No;0
+114831;Male;21;Surat;Student;1;0;5,32;5;0;'5-6 hours';Healthy;MCA;Yes;11;3;Yes;1
+123971;Male;27;Kalyan;Student;5;0;6,03;3;0;'7-8 hours';Unhealthy;B,Ed;No;9;2;No;1
+92864;Male;19;Pune;Student;1;0;9,93;2;0;'Less than 5 hours';Healthy;'Class 12';No;7;1;Yes;0
+17006;Male;22;Pune;Student;2;0;5,16;1;0;'7-8 hours';Unhealthy;M,Tech;Yes;7;4;No;1
+139496;Male;26;Mumbai;Student;1;0;8,47;3;0;'5-6 hours';Moderate;B,Tech;Yes;12;3;No;1
+130350;Male;25;Kanpur;Student;2;0;9,63;4;0;'7-8 hours';Unhealthy;MCA;Yes;10;5;No;1
+115575;Male;33;Pune;Student;3;0;9,11;3;0;'5-6 hours';Healthy;MSc;No;2;2;No;0
+107206;Male;18;Ludhiana;Student;4;0;6,16;1;0;'7-8 hours';Unhealthy;'Class 12';Yes;12;3;No;1
+67168;Male;28;Rajkot;Student;3;0;9,95;4;0;'7-8 hours';Healthy;BA;No;4;3;Yes;0
+117738;Male;27;Bhopal;Student;3;0;7,3;2;0;'7-8 hours';Unhealthy;BBA;Yes;1;1;Yes;1
+86926;Male;19;Rajkot;Student;4;0;8,9;4;0;'5-6 hours';Unhealthy;'Class 12';Yes;9;4;No;1
+69957;Male;26;Ludhiana;Student;4;0;5,35;4;0;'5-6 hours';Healthy;'Class 12';No;4;1;Yes;0
+78352;Male;20;Nagpur;Student;3;0;6,99;3;0;'7-8 hours';Unhealthy;'Class 12';Yes;12;3;Yes;1
+116299;Male;25;Kolkata;Student;2;0;9,44;2;0;'Less than 5 hours';Moderate;B,Pharm;No;0;5;Yes;0
+59007;Male;22;Thane;Student;4;0;8,24;3;0;'5-6 hours';Moderate;B,Com;No;2;5;No;1
+77944;Male;20;Surat;Student;5;0;6,03;4;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;10;1;Yes;1
+129143;Male;20;Vasai-Virar;Student;3;0;8,56;3;0;'7-8 hours';Unhealthy;'Class 12';No;9;3;Yes;0
+58780;Male;21;Rajkot;Student;2;0;7,51;1;0;'More than 8 hours';Healthy;BA;Yes;10;5;Yes;0
+125888;Male;19;Kolkata;Student;4;0;9,98;3;0;'Less than 5 hours';Healthy;'Class 12';No;8;1;No;0
+35089;Male;34;Faridabad;Student;1;0;6,51;2;0;'7-8 hours';Healthy;M,Ed;No;3;1;Yes;0
+36813;Male;33;Patna;Student;5;0;9,21;1;0;'Less than 5 hours';Unhealthy;B,Ed;Yes;10;5;Yes;1
+76654;Male;26;Vadodara;Student;5;0;9,72;5;0;'Less than 5 hours';Moderate;BCA;Yes;10;2;No;1
+83867;Male;25;Jaipur;Student;5;0;6,47;5;0;'7-8 hours';Unhealthy;B,Com;Yes;8;4;No;1
+24192;Male;30;Agra;Student;3;0;9,44;2;0;'More than 8 hours';Moderate;B,Ed;Yes;10;5;No;1
+9684;Male;19;Patna;Student;2;0;9,41;3;0;'5-6 hours';Moderate;'Class 12';No;7;2;Yes;0
+89815;Male;30;Meerut;Student;3;0;6,1;2;0;'5-6 hours';Healthy;PhD;Yes;6;4;Yes;1
+10783;Male;31;Nagpur;Student;4;0;8,24;3;0;'5-6 hours';Unhealthy;M,Tech;No;3;2;No;0
+15755;Male;20;Delhi;Student;3;0;8,95;4;0;'7-8 hours';Unhealthy;'Class 12';Yes;10;4;No;1
+51654;Male;21;Mumbai;Student;5;0;5,75;2;0;'Less than 5 hours';Unhealthy;BCA;Yes;0;5;No;1
+124937;Male;34;Srinagar;Student;3;0;6,1;3;0;'Less than 5 hours';Moderate;M,Ed;Yes;3;2;Yes;0
+79203;Male;33;Pune;Student;2;0;6,84;3;0;'More than 8 hours';Unhealthy;M,Tech;Yes;9;5;No;0
+120613;Male;27;Delhi;Student;2;0;9,86;4;0;'Less than 5 hours';Unhealthy;B,Arch;Yes;8;5;No;1
+29587;Male;33;Agra;Student;3;0;7,1;4;0;'5-6 hours';Healthy;MBA;No;9;1;No;0
+94270;Male;26;Mumbai;Student;3;0;7,04;2;0;'Less than 5 hours';Moderate;B,Ed;Yes;11;5;Yes;1
+69216;Male;22;Visakhapatnam;Student;4;0;9,24;2;0;'7-8 hours';Unhealthy;MCA;Yes;4;1;Yes;1
+84616;Male;32;Meerut;Student;2;0;8,04;4;0;'7-8 hours';Healthy;ME;Yes;1;3;Yes;0
+95298;Male;22;Agra;Student;1;0;6,39;4;0;'More than 8 hours';Unhealthy;BBA;No;0;2;No;0
+31469;Male;26;Surat;Student;4;0;5,35;4;0;'Less than 5 hours';Healthy;'Class 12';No;0;5;No;1
+51306;Male;19;Thane;Student;1;0;5,61;2;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;7;5;No;1
+109325;Male;23;Agra;Student;1;0;6,76;3;0;'7-8 hours';Healthy;B,Arch;Yes;10;1;Yes;0
+29138;Male;25;Lucknow;Student;2;0;6,47;5;0;'5-6 hours';Moderate;B,Com;No;9;1;No;0
+67240;Male;18;Kolkata;Student;3;0;9,11;3;0;'More than 8 hours';Moderate;B,Tech;No;3;1;Yes;1
+123650;Male;31;Indore;Student;3;0;9,19;1;0;'More than 8 hours';Moderate;MBBS;No;10;2;Yes;0
+110652;Male;31;Vadodara;Student;2;0;5,12;4;0;'Less than 5 hours';Unhealthy;B,Arch;Yes;5;5;Yes;1
+71315;Male;22;Srinagar;Student;3;0;6,03;4;0;'Less than 5 hours';Healthy;B,Arch;Yes;4;1;No;1
+37236;Male;25;Patna;Student;3;0;7,7;1;0;'Less than 5 hours';Healthy;B,Arch;Yes;6;4;No;1
+71010;Male;23;Bhopal;Student;1;0;6,78;4;0;'5-6 hours';Moderate;B,Tech;Yes;3;2;No;0
+114803;Male;18;Rajkot;Student;5;0;8,54;4;0;'More than 8 hours';Unhealthy;'Class 12';Yes;8;2;Yes;1
+54950;Male;26;Chennai;Student;5;0;9,37;1;0;'7-8 hours';Moderate;M,Tech;No;8;3;Yes;1
+66818;Male;21;Chennai;Student;2;0;7,25;2;0;'7-8 hours';Healthy;MCA;No;10;3;Yes;0
+85447;Male;34;Vasai-Virar;Student;3;0;7,48;5;0;'5-6 hours';Healthy;LLM;Yes;0;5;No;0
+131665;Male;28;Srinagar;Student;3;0;6,75;5;0;'5-6 hours';Unhealthy;LLB;Yes;7;3;No;1
+88859;Male;25;Indore;Student;5;0;8,95;1;0;'5-6 hours';Unhealthy;M,Pharm;Yes;10;4;No;1
+956;Male;23;Agra;Student;4;0;9,24;2;0;'Less than 5 hours';Healthy;B,Com;Yes;7;2;No;1
+25256;Male;20;Pune;Student;4;0;5,55;3;0;'7-8 hours';Unhealthy;'Class 12';Yes;11;5;Yes;1
+51838;Male;24;Hyderabad;Student;1;0;5,85;4;0;'Less than 5 hours';Moderate;B,Pharm;No;3;2;No;0
+27453;Male;27;Surat;Student;1;0;8,81;3;0;'7-8 hours';Healthy;'Class 12';No;7;5;Yes;0
+18680;Male;23;Srinagar;Student;1;0;9,95;2;0;'7-8 hours';Healthy;B,Arch;No;12;3;Yes;0
+38995;Male;24;Bhopal;Student;5;0;7,94;3;0;'5-6 hours';Moderate;B,Ed;Yes;3;3;Yes;1
+1529;Male;22;Jaipur;Student;4;0;9,33;4;0;'More than 8 hours';Moderate;BCA;Yes;9;2;No;0
+19380;Male;32;Delhi;Student;1;0;9,56;2;0;'5-6 hours';Healthy;BCA;No;8;4;No;0
+77805;Male;26;Surat;Student;3;0;9,88;2;0;'5-6 hours';Unhealthy;MBA;No;10;5;No;0
+123776;Male;32;Indore;Student;1;0;6,78;3;0;'5-6 hours';Moderate;B,Tech;Yes;1;5;Yes;1
+128114;Male;22;Patna;Student;4;0;5,75;2;0;'5-6 hours';Unhealthy;B,Com;Yes;12;4;No;1
+131037;Male;19;Varanasi;Student;3;0;8,52;2;0;'Less than 5 hours';Unhealthy;'Class 12';No;9;5;Yes;1
+74070;Male;22;Lucknow;Student;4;0;9,24;2;0;'Less than 5 hours';Healthy;B,Tech;Yes;3;1;No;1
+86993;Male;32;Faridabad;Student;2;0;5,66;5;0;'5-6 hours';Moderate;M,Tech;Yes;12;5;Yes;1
+80642;Male;19;Mumbai;Student;1;0;7,1;5;0;'More than 8 hours';Moderate;'Class 12';No;12;2;Yes;0
+122049;Male;20;Nashik;Student;5;0;5,64;4;0;'More than 8 hours';Unhealthy;'Class 12';Yes;11;4;No;1
+119347;Male;24;Thane;Student;4;0;8,58;2;0;'More than 8 hours';Unhealthy;'Class 12';Yes;6;4;No;1
+123661;Male;33;Lucknow;Student;1;0;5,84;3;0;'More than 8 hours';Healthy;B,Com;No;12;3;No;0
+99248;Male;25;Surat;Student;3;0;5,56;2;0;'5-6 hours';Moderate;BBA;No;12;1;Yes;0
+92226;Male;26;Bhopal;Architect;4;0;7,28;3;0;'More than 8 hours';Healthy;BSc;No;12;4;Yes;0
+107203;Male;28;Hyderabad;Student;3;0;8,91;5;0;'More than 8 hours';Healthy;MCA;No;9;5;Yes;1
+121341;Male;27;Vasai-Virar;Student;5;0;5,85;1;0;'Less than 5 hours';Moderate;B,Ed;Yes;12;5;No;1
+81947;Male;29;Srinagar;Student;1;0;5,85;3;0;'7-8 hours';Moderate;B,Tech;Yes;9;1;Yes;0
+129554;Male;33;Indore;Student;2;0;7,39;4;0;'More than 8 hours';Unhealthy;MA;No;9;1;No;0
+36828;Male;21;Ludhiana;Student;3;0;9,26;2;0;'More than 8 hours';Healthy;MA;Yes;6;3;Yes;1
+70851;Male;31;Hyderabad;Student;5;0;8,17;1;0;'7-8 hours';Moderate;BHM;Yes;12;4;No;1
+68334;Male;29;Bhopal;Student;3;0;8,28;5;0;'7-8 hours';Moderate;B,Tech;Yes;8;4;No;1
+25696;Male;34;Delhi;Student;1;0;7,27;4;0;'More than 8 hours';Healthy;BCA;No;9;1;No;0
+56449;Male;31;Bhopal;Student;4;0;9,84;1;0;'More than 8 hours';Moderate;LLB;Yes;4;2;No;0
+21575;Male;26;Visakhapatnam;Student;2;0;8,5;1;0;'5-6 hours';Unhealthy;MCA;No;10;5;No;1
+114647;Male;28;Kalyan;Student;2;0;9,11;2;0;'5-6 hours';Unhealthy;B,Ed;Yes;4;2;No;1
+43165;Male;25;Nagpur;Student;4;0;9,96;5;0;'7-8 hours';Unhealthy;B,Ed;Yes;4;2;No;1
+52815;Male;26;Srinagar;Student;2;0;5,7;3;0;'7-8 hours';Moderate;B,Arch;Yes;12;4;Yes;1
+95562;Male;25;Visakhapatnam;Student;4;0;8,74;3;0;'5-6 hours';Unhealthy;MBBS;Yes;9;2;No;1
+59679;Male;28;Visakhapatnam;Student;4;0;7,52;2;0;'5-6 hours';Moderate;M,Com;Yes;10;5;No;1
+57167;Male;24;Rajkot;Student;2;0;8,04;4;0;'More than 8 hours';Unhealthy;BCA;No;2;4;No;0
+135675;Male;33;Ludhiana;Student;5;0;7,27;4;0;'More than 8 hours';Healthy;MBA;Yes;12;4;Yes;1
+47115;Male;21;Delhi;Student;5;0;5,64;5;0;'Less than 5 hours';Unhealthy;B,Arch;Yes;4;3;No;1
+92915;Male;34;Pune;Student;5;0;7,25;3;0;'7-8 hours';Unhealthy;B,Tech;No;10;1;No;1
+127712;Male;29;Kolkata;Student;5;0;9,98;2;0;'More than 8 hours';Unhealthy;LLM;No;1;1;No;1
+90201;Male;31;Mumbai;Student;2;0;8,74;3;0;'5-6 hours';Unhealthy;MBA;Yes;10;2;No;1
+84278;Male;25;Lucknow;Student;3;0;8,52;2;0;'More than 8 hours';Moderate;BSc;No;0;4;No;1
+9806;Male;28;Mumbai;Student;3;0;9,24;3;0;'7-8 hours';Unhealthy;M,Tech;Yes;1;5;No;1
+98117;Male;20;Pune;Student;3;0;6,41;3;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;1;4;Yes;1
+9123;Male;21;Meerut;Student;5;0;9,96;1;0;'Less than 5 hours';Unhealthy;BCA;Yes;12;4;Yes;1
+23378;Male;20;Srinagar;Student;1;0;5,42;5;0;'7-8 hours';Moderate;'Class 12';No;6;5;No;0
+8185;Male;25;Visakhapatnam;Student;5;0;9,96;5;0;'7-8 hours';Unhealthy;B,Ed;No;2;2;Yes;0
+56815;Male;20;Hyderabad;Student;2;0;7,25;4;0;'7-8 hours';Unhealthy;'Class 12';No;10;1;No;0
+89679;Male;26;Lucknow;Student;3;0;8,27;1;0;'7-8 hours';Healthy;B,Tech;No;2;2;No;0
+125655;Male;23;Delhi;Student;3;0;5,74;2;0;'Less than 5 hours';Moderate;B,Tech;No;10;1;No;0
+31687;Male;23;Srinagar;Student;1;0;8,54;2;0;'More than 8 hours';Healthy;BCA;No;11;4;No;0
+79257;Male;34;Surat;Student;5;0;5,27;5;0;'Less than 5 hours';Moderate;BCA;Yes;3;1;No;1
+19010;Male;28;Thane;Student;1;0;7,77;3;0;'Less than 5 hours';Healthy;PhD;No;0;1;No;0
+108236;Male;24;Patna;Student;5;0;6,38;1;0;'7-8 hours';Unhealthy;MBBS;Yes;2;3;No;1
+67905;Male;33;Patna;Student;2;0;8,94;4;0;'7-8 hours';Unhealthy;BCA;No;10;3;No;0
+123356;Male;24;Delhi;Student;5;0;9,6;1;0;'More than 8 hours';Unhealthy;MSc;Yes;8;3;Yes;1
+15965;Male;29;Faridabad;Student;5;0;9,05;3;0;'Less than 5 hours';Unhealthy;MSc;Yes;8;3;No;1
+86875;Male;34;Lucknow;Student;4;0;7,51;4;0;'More than 8 hours';Unhealthy;MSc;Yes;10;1;No;0
+98206;Male;33;Nagpur;Student;2;0;5,16;4;0;'Less than 5 hours';Moderate;M,Tech;No;9;3;No;0
+60427;Male;25;Vasai-Virar;Student;4;0;7,88;5;0;'5-6 hours';Unhealthy;MD;Yes;6;5;Yes;0
+28510;Male;33;Kalyan;Student;3;0;5,16;2;0;'5-6 hours';Unhealthy;M,Tech;Yes;10;4;Yes;1
+84173;Male;30;Varanasi;Student;5;0;6,47;2;0;'More than 8 hours';Moderate;LLB;Yes;11;2;No;1
+67278;Male;20;Vasai-Virar;Student;5;0;5,79;4;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;7;5;Yes;1
+108568;Male;31;Vasai-Virar;Student;4;0;5,37;2;0;'Less than 5 hours';Healthy;M,Com;Yes;6;3;No;1
+130879;Male;20;Kolkata;Student;5;0;6,16;2;0;'7-8 hours';Unhealthy;'Class 12';Yes;10;3;No;1
+55877;Male;23;Bangalore;Student;5;0;5,32;4;0;'Less than 5 hours';Moderate;B,Ed;Yes;6;4;Yes;1
+63430;Male;29;Patna;Student;2;0;9,33;1;0;'5-6 hours';Moderate;BBA;Yes;9;3;No;1
+81665;Male;30;Ahmedabad;Student;1;0;9,34;2;0;'More than 8 hours';Moderate;'Class 12';No;5;5;Yes;0
+83015;Male;18;Thane;Student;3;0;7,09;3;0;'More than 8 hours';Moderate;'Class 12';Yes;7;3;No;1
+45959;Male;29;Ahmedabad;Student;3;0;9,86;2;0;'More than 8 hours';Unhealthy;M,Com;Yes;11;1;Yes;1
+13584;Male;21;Kalyan;Student;3;0;5,38;5;0;'5-6 hours';Unhealthy;MSc;Yes;10;4;Yes;1
+136714;Male;25;Agra;Student;3;0;9,72;2;0;'7-8 hours';Unhealthy;BHM;Yes;8;4;No;1
+124390;Male;21;Hyderabad;Student;4;0;8,04;5;0;'Less than 5 hours';Unhealthy;B,Com;Yes;10;5;Yes;1
+84787;Male;24;Ahmedabad;Student;3;0;9,24;3;0;'More than 8 hours';Unhealthy;B,Ed;Yes;10;5;No;1
+56652;Male;18;Srinagar;Student;2;0;5,88;1;0;'More than 8 hours';Unhealthy;'Class 12';No;0;5;Yes;0
+124512;Male;23;Visakhapatnam;Student;2;0;8,74;3;0;'7-8 hours';Unhealthy;B,Tech;Yes;12;5;Yes;1
+127780;Male;24;Bhopal;Student;2;0;6,37;1;0;'Less than 5 hours';Moderate;MSc;Yes;6;3;Yes;1
+66122;Male;21;Bangalore;Student;4;0;6,21;1;0;'5-6 hours';Unhealthy;M,Com;No;12;5;No;1
+137889;Male;26;Rajkot;Student;4;0;8,54;2;0;'Less than 5 hours';Unhealthy;BBA;Yes;5;4;Yes;1
+130722;Male;31;Ahmedabad;Student;3;0;7,38;4;0;'7-8 hours';Moderate;M,Com;Yes;11;5;No;1
+94437;Male;34;Ahmedabad;Student;2;0;9,93;1;0;'7-8 hours';Healthy;B,Com;Yes;4;1;Yes;0
+43400;Male;21;Nashik;Student;1;0;8,56;3;0;'7-8 hours';Moderate;M,Tech;No;9;2;Yes;0
+135354;Male;21;Kolkata;Student;1;0;5,85;4;0;'Less than 5 hours';Moderate;MA;No;4;2;No;0
+125528;Male;27;Nashik;Student;4;0;8,14;4;0;'5-6 hours';Unhealthy;PhD;Yes;12;2;No;1
+23626;Male;27;Indore;Student;4;0;6,25;2;0;'Less than 5 hours';Moderate;B,Com;Yes;8;2;Yes;1
+1801;Male;25;Kanpur;Student;2;0;7,88;3;0;'5-6 hours';Healthy;M,Ed;Yes;9;4;No;1
+67466;Male;28;Mumbai;Student;1;0;5,87;3;0;'7-8 hours';Moderate;B,Pharm;No;11;3;No;0
+8979;Male;20;Kalyan;Student;5;0;5,58;1;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;10;2;Yes;1
+58473;Male;31;Bangalore;Student;2;0;8,69;4;0;'More than 8 hours';Unhealthy;'Class 12';No;6;2;Yes;0
+15945;Male;24;Rajkot;Student;1;0;7,61;5;0;'7-8 hours';Moderate;LLB;Yes;10;5;Yes;0
+6715;Male;29;Patna;Student;4;0;7,88;2;0;'5-6 hours';Moderate;PhD;Yes;11;3;No;1
+38947;Male;31;Patna;Student;1;0;5,11;2;0;'More than 8 hours';Moderate;M,Ed;No;9;1;No;0
+132706;Male;23;Agra;Student;3;0;8,74;2;0;'Less than 5 hours';Moderate;B,Arch;Yes;10;2;No;1
+103699;Male;23;Rajkot;Student;1;0;7,03;4;0;'5-6 hours';Healthy;BHM;Yes;4;1;No;0
+37805;Male;30;Lucknow;Student;4;0;9,95;2;0;'More than 8 hours';Unhealthy;B,Com;Yes;10;4;No;1
+28564;Male;18;Ahmedabad;Student;1;0;9,44;4;0;'Less than 5 hours';Unhealthy;'Class 12';No;3;1;Yes;0
+122204;Male;20;Ludhiana;Student;1;0;5,08;2;0;'More than 8 hours';Unhealthy;'Class 12';No;2;3;Yes;0
+122832;Male;22;Ahmedabad;Student;5;0;5,32;2;0;'7-8 hours';Moderate;PhD;Yes;1;4;Yes;1
+81930;Male;25;Kalyan;Student;3;0;9,72;3;0;'7-8 hours';Moderate;MHM;Yes;4;5;Yes;1
+125671;Male;25;Mumbai;Student;3;0;8,04;2;0;'7-8 hours';Unhealthy;B,Tech;No;8;2;No;0
+32961;Male;38;Kolkata;Student;2;0;6,02;5;0;'More than 8 hours';Moderate;B,Arch;No;5;2;No;0
+124947;Male;22;Kalyan;Student;3;0;5,83;5;0;'5-6 hours';Unhealthy;MCA;Yes;10;3;No;1
+118162;Male;29;Indore;Student;4;0;9,56;1;0;'7-8 hours';Moderate;B,Tech;Yes;4;1;No;0
+82197;Male;26;Srinagar;Student;4;0;8,73;5;0;'More than 8 hours';Healthy;B,Tech;Yes;8;5;Yes;1
+70776;Male;19;Ludhiana;Student;5;0;5,6;1;0;'Less than 5 hours';Moderate;'Class 12';Yes;1;3;No;1
+104480;Male;28;Meerut;Student;5;0;7,09;1;0;'5-6 hours';Unhealthy;M,Ed;No;2;4;Yes;1
+49568;Male;28;Nagpur;Student;3;0;9,24;3;0;'7-8 hours';Unhealthy;B,Tech;Yes;10;3;No;1
+56731;Male;22;Thane;Student;1;0;6,56;4;0;'7-8 hours';Moderate;BHM;Yes;12;2;No;0
+113483;Male;20;Delhi;Student;4;0;5,66;3;0;'Less than 5 hours';Healthy;'Class 12';Yes;7;5;Yes;1
+37282;Male;23;Agra;Student;2;0;9,44;4;0;'More than 8 hours';Moderate;MA;No;0;4;No;0
+84063;Male;33;Bhopal;Student;2;0;6,16;5;0;'5-6 hours';Moderate;BHM;Yes;10;2;No;0
+106871;Male;20;Lucknow;Student;3;0;6,16;4;0;'7-8 hours';Healthy;'Class 12';Yes;6;4;No;1
+80734;Male;20;Ghaziabad;Student;5;0;7,02;4;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;10;4;Yes;1
+114051;Male;21;Mumbai;Student;3;0;8,95;4;0;'7-8 hours';Unhealthy;B,Arch;Yes;3;2;No;1
+5278;Male;29;Ghaziabad;Student;2;0;7,53;4;0;'5-6 hours';Healthy;B,Arch;Yes;11;1;Yes;1
+10213;Male;33;Meerut;Student;1;0;9,41;5;0;'Less than 5 hours';Healthy;MA;No;11;2;Yes;0
+73194;Male;18;Hyderabad;Student;2;0;8,91;4;0;'5-6 hours';Moderate;'Class 12';No;12;2;No;0
+120337;Male;18;Varanasi;Student;4;0;9,24;2;0;'More than 8 hours';Healthy;'Class 12';Yes;4;3;Yes;1
+78136;Male;28;Jaipur;Student;1;0;6,21;3;0;'More than 8 hours';Unhealthy;M,Pharm;Yes;10;5;No;1
+88245;Male;33;Nagpur;Student;1;0;8,58;1;0;'Less than 5 hours';Healthy;BHM;No;11;4;Yes;0
+67698;Male;33;Pune;Student;3;0;5,12;4;0;'5-6 hours';Moderate;M,Pharm;No;1;5;No;0
+33085;Male;24;Kalyan;Student;4;0;5,12;1;0;'More than 8 hours';Unhealthy;BHM;Yes;8;2;Yes;1
+115624;Male;26;Thane;Student;4;0;5,16;3;0;'7-8 hours';Moderate;M,Pharm;Yes;6;4;No;1
+117849;Male;19;Delhi;Student;3;0;5,99;4;0;'7-8 hours';Moderate;'Class 12';No;3;3;Yes;0
+134676;Male;21;Lucknow;Student;1;0;5,46;1;0;'More than 8 hours';Unhealthy;MCA;No;0;5;Yes;0
+38352;Male;25;Kanpur;Student;1;0;7,68;2;0;'Less than 5 hours';Unhealthy;'Class 12';Yes;11;5;No;1
+64771;Male;21;Thane;Student;2;0;7,51;1;0;'7-8 hours';Moderate;MCA;No;10;2;No;1
+11387;Male;33;Srinagar;Student;4;0;7,74;1;0;'5-6 hours';Moderate;'Class 12';Yes;5;5;Yes;1
+18974;Male;19;Bangalore;Student;3;0;9,04;4;0;'More than 8 hours';Unhealthy;'Class 12';No;4;1;No;0
+85769;Male;30;Delhi;Student;3;0;6,99;3;0;'Less than 5 hours';Moderate;M,Tech;Yes;3;2;No;1
+66194;Male;29;Surat;Student;1;0;9,44;5;0;'7-8 hours';Moderate;B,Pharm;No;2;2;No;0
+232;Male;18;Visakhapatnam;Student;2;0;6,21;3;0;'5-6 hours';Unhealthy;'Class 12';Yes;4;2;No;1
+82088;Male;29;Visakhapatnam;Student;1;0;6,1;5;0;'7-8 hours';Moderate;BE;Yes;10;4;Yes;0
+133407;Male;23;Jaipur;Student;4;0;5,27;5;0;'More than 8 hours';Healthy;B,Com;No;9;4;Yes;0
+109953;Male;32;Bhopal;Student;3;0;9,21;4;0;'7-8 hours';Moderate;LLB;No;10;3;No;0
+100039;Male;28;Vasai-Virar;Student;4;0;8,5;2;0;'5-6 hours';Moderate;B,Com;Yes;10;1;Yes;0
+58752;Male;21;Mumbai;Student;3;0;7,21;2;0;'More than 8 hours';Healthy;MCA;Yes;12;2;Yes;1
+41564;Male;25;Ludhiana;Student;4;0;9,79;2;0;'Less than 5 hours';Healthy;M,Com;Yes;2;5;No;1
+58509;Male;24;Hyderabad;Student;4;0;8,97;2;0;'Less than 5 hours';Healthy;MD;Yes;3;3;No;1
+109776;Male;28;Bhopal;Student;5;0;6,37;3;0;'7-8 hours';Unhealthy;MSc;Yes;11;2;Yes;1
+89946;Male;26;Visakhapatnam;Student;4;0;8,14;1;0;'5-6 hours';Moderate;MCA;Yes;8;2;No;1
+46388;Male;22;Ghaziabad;Student;5;0;8,91;1;0;'Less than 5 hours';Unhealthy;BHM;No;10;2;No;1
+72177;Male;31;Jaipur;Student;2;0;5,65;5;0;'5-6 hours';Healthy;M,Pharm;Yes;2;3;No;0
+76017;Male;29;Meerut;Student;3;0;8,44;2;0;'5-6 hours';Unhealthy;B,Com;No;9;5;Yes;1
+63566;Male;33;Hyderabad;Student;4;0;8,58;4;0;'More than 8 hours';Moderate;B,Ed;Yes;9;4;No;1
+32315;Male;18;Meerut;Student;5;0;6,78;5;0;'7-8 hours';Unhealthy;'Class 12';Yes;8;1;No;1
+102382;Male;27;Bhopal;Student;4;0;5,38;1;0;'7-8 hours';Moderate;M,Ed;Yes;8;4;No;1
+68320;Male;19;Ghaziabad;Student;3;0;9,21;1;0;'Less than 5 hours';Moderate;'Class 12';Yes;7;2;Yes;1
+130002;Male;25;Srinagar;Student;3;0;6,35;2;0;'Less than 5 hours';Moderate;B,Pharm;Yes;0;4;Yes;1
+94351;Male;25;Kolkata;Student;3;0;5,85;3;0;'5-6 hours';Healthy;B,Arch;No;5;3;No;0
+104591;Male;21;Kalyan;Student;3;0;9,05;4;0;'More than 8 hours';Unhealthy;B,Arch;Yes;8;5;No;1
+121313;Male;25;Ludhiana;Student;3;0;9,96;2;0;'Less than 5 hours';Healthy;M,Ed;No;11;1;No;0
+30115;Male;19;Jaipur;Student;3;0;6,99;1;0;'5-6 hours';Unhealthy;'Class 12';Yes;0;5;No;1
+39119;Male;33;Bhopal;Student;3;0;9,11;4;0;'5-6 hours';Moderate;MBBS;No;8;3;No;0
+30197;Male;19;Chennai;Student;4;0;7,79;3;0;'5-6 hours';Unhealthy;'Class 12';Yes;12;5;Yes;1
+50541;Male;28;Varanasi;Student;1;0;6,21;5;0;'More than 8 hours';Moderate;BE;No;6;3;Yes;0
+116039;Male;21;Lucknow;Student;2;0;9,87;3;0;'More than 8 hours';Moderate;BHM;Yes;12;5;Yes;1
+21236;Male;28;Kolkata;Student;4;0;8,69;4;0;'Less than 5 hours';Unhealthy;M,Pharm;Yes;7;4;No;1
+113240;Male;31;Visakhapatnam;Student;1;0;5,88;5;0;'Less than 5 hours';Moderate;M,Ed;No;1;1;No;0
+125567;Male;27;Nashik;Student;2;0;8,95;3;0;'5-6 hours';Healthy;BSc;Yes;6;3;No;0
+57401;Male;27;Visakhapatnam;Student;1;0;5,41;4;0;'5-6 hours';Healthy;'Class 12';No;9;3;No;0
+76683;Male;20;Rajkot;Student;1;0;8,74;4;0;'Less than 5 hours';Healthy;'Class 12';Yes;6;1;Yes;0
+109131;Male;27;Mumbai;Student;3;0;6,41;3;0;'More than 8 hours';Healthy;MCA;No;0;2;Yes;0
+78773;Male;34;Patna;Student;3;0;9,94;1;0;'5-6 hours';Healthy;PhD;Yes;11;5;No;1
+56964;Male;24;Bhopal;Student;5;0;8,96;5;0;'More than 8 hours';Unhealthy;B,Ed;No;8;3;No;0
+45254;Male;27;Indore;Student;2;0;9,59;3;0;'5-6 hours';Moderate;MD;No;4;2;Yes;0
+90479;Male;25;Delhi;Student;5;0;5,45;2;0;'Less than 5 hours';Unhealthy;M,Pharm;Yes;12;5;No;1
+15033;Male;22;Jaipur;Student;1;0;9,92;4;0;'7-8 hours';Healthy;MSc;No;11;3;No;0
+8418;Male;24;Vasai-Virar;Student;1;0;8,25;3;0;'Less than 5 hours';Unhealthy;B,Arch;No;6;1;Yes;0
+67062;Male;24;Surat;Student;1;0;7,83;4;0;'Less than 5 hours';Moderate;BE;Yes;11;3;No;0
+70029;Male;33;Vasai-Virar;Student;3;0;7,09;3;0;'7-8 hours';Moderate;B,Ed;No;10;1;Yes;0
+124895;Male;33;Vadodara;Student;2;0;9,44;4;0;'More than 8 hours';Unhealthy;M,Ed;Yes;4;5;No;0
+96840;Male;26;Kalyan;Student;3;0;6,76;1;0;'7-8 hours';Healthy;B,Ed;Yes;8;3;No;0
+135944;Male;34;Srinagar;Student;1;0;9,21;3;0;'More than 8 hours';Healthy;B,Ed;Yes;10;5;No;0
